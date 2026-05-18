@@ -1,0 +1,29 @@
+﻿{
+    "id":  "codex-verification-20260518180556",
+    "type":  "session_created",
+    "version":  1,
+    "deviceId":  "codex-verification-device",
+    "userName":  "Codex Verification",
+    "createdAt":  "2026-05-18T22:05:56.4348265Z",
+    "payload":  {
+                    "session":  {
+                                    "id":  "session-codex-verification-20260518180556",
+                                    "repoId":  "verification-repo",
+                                    "repoName":  "Axiom Verification",
+                                    "repoPath":  "coordination-state-only",
+                                    "userName":  "Codex Verification",
+                                    "title":  "Sync verification session",
+                                    "notes":  "Created by Codex to verify append-only team sync.",
+                                    "targets":  [
+                                                    {
+                                                        "id":  "target-codex-verification-20260518180556",
+                                                        "type":  "area",
+                                                        "value":  "team-sync",
+                                                        "label":  "Team sync"
+                                                    }
+                                                ],
+                                    "status":  "active",
+                                    "startedAt":  "2026-05-18T22:05:56.4348265Z"
+                                }
+                }
+}
