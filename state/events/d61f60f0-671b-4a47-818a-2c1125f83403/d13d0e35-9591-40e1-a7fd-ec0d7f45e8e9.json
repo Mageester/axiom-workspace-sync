@@ -1,0 +1,13 @@
+{
+  "createdAt": "2026-05-19T23:47:59.042Z",
+  "deviceId": "d61f60f0-671b-4a47-818a-2c1125f83403",
+  "id": "d13d0e35-9591-40e1-a7fd-ec0d7f45e8e9",
+  "payload": {
+    "endNote": "Done starting new session",
+    "endedAt": "2026-05-19T23:47:59.042Z",
+    "sessionId": "1ab6ebfe-6bf8-4774-8547-d90a1895506f"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}

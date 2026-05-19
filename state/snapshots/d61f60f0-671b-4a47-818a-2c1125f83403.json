@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-19T23:46:46.322Z",
+  "createdAt": "2026-05-19T23:48:04.043Z",
   "createdByDeviceId": "d61f60f0-671b-4a47-818a-2c1125f83403",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -20,7 +20,10 @@
     "bfe0b2ec-ee85-402b-8dec-3fdbadb945df",
     "3e61eb85-63a3-40ac-9f2b-f61f00fd40b0",
     "7a7d4a25-cb34-4aba-a849-7547060af7d1",
-    "a5fe3601-83bc-4bac-9394-791598549803"
+    "a5fe3601-83bc-4bac-9394-791598549803",
+    "ed59f4ac-4fe6-4cfe-8236-dd2a31b0d27d",
+    "78e6f27a-a5b9-4b66-a2cf-3c7341375b1c",
+    "d13d0e35-9591-40e1-a7fd-ec0d7f45e8e9"
   ],
   "sessions": [
     {
@@ -44,13 +47,15 @@
     },
     {
       "branch": "master",
+      "endNote": "Done starting new session",
+      "endedAt": "2026-05-19T23:47:59.042Z",
       "id": "1ab6ebfe-6bf8-4774-8547-d90a1895506f",
       "notes": "DO NOT TOUCH WORK",
       "repoId": "556c11ca437d9616",
       "repoName": "Axiom Workspace",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
       "startedAt": "2026-05-19T18:01:34.012Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "e912126b-0d09-46e9-8257-948a4c296b8f",
