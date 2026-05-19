@@ -1,11 +1,9 @@
 {
-  "createdAt": "2026-05-19T04:14:36.753Z",
-  "createdByDeviceId": "54593377-c72b-4824-a868-9f8dba52cc6d",
-  "eventsApplied": [
-    "a8f6e777-1ce9-4408-b399-737030a2916f"
-  ],
-  "sessions": [
-    {
+  "createdAt": "2026-05-19T04:14:21.124Z",
+  "deviceId": "54593377-c72b-4824-a868-9f8dba52cc6d",
+  "id": "a8f6e777-1ce9-4408-b399-737030a2916f",
+  "payload": {
+    "session": {
       "branch": "main",
       "id": "24de8011-4a01-4555-9e3a-1e672f8f7646",
       "notes": "DO NOT TOUCH",
@@ -24,6 +22,8 @@
       "title": "Working",
       "userName": "Aidan"
     }
-  ],
+  },
+  "type": "session_created",
+  "userName": "Aidan",
   "version": 1
 }
