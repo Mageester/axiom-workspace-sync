@@ -1,0 +1,11 @@
+{
+  "createdAt": "2026-05-19T23:44:54.487Z",
+  "deviceId": "d61f60f0-671b-4a47-818a-2c1125f83403",
+  "id": "3e61eb85-63a3-40ac-9f2b-f61f00fd40b0",
+  "payload": {
+    "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site"
+  },
+  "type": "repo_refreshed",
+  "userName": "Aidan",
+  "version": 1
+}
