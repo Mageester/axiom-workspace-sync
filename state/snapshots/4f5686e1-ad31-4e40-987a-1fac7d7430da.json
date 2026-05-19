@@ -1,7 +1,74 @@
 {
-  "createdAt": "2026-05-19T18:01:08.933Z",
+  "createdAt": "2026-05-19T18:01:39.013Z",
   "createdByDeviceId": "4f5686e1-ad31-4e40-987a-1fac7d7430da",
-  "eventsApplied": [],
-  "sessions": [],
+  "eventsApplied": [
+    "a8f6e777-1ce9-4408-b399-737030a2916f",
+    "0e14e894-8548-48cf-81a3-2e3b83aa7c3c",
+    "f2d3efb3-7e68-45f3-a498-8709b0fe0127",
+    "f5eb75e6-74bc-4d21-9f23-278600329f86",
+    "19974af7-d742-402f-9ac8-6574d4b4666f",
+    "7da68b09-3caa-4552-b676-57ed5fd1bc96"
+  ],
+  "sessions": [
+    {
+      "branch": "master",
+      "id": "1ab6ebfe-6bf8-4774-8547-d90a1895506f",
+      "notes": "DO NOT TOUCH WORK",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-19T18:01:34.012Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "e912126b-0d09-46e9-8257-948a4c296b8f",
+          "type": "area",
+          "value": "Working on it do not touch"
+        }
+      ],
+      "title": "Working on it do not touch",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-19T15:33:41.733Z",
+      "id": "52839eac-bbca-42e4-95fb-fb557153d0a6",
+      "notes": "wdawdawda",
+      "repoId": "95cd71f38f84bd3b",
+      "repoName": "axiom-site",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-19T04:36:45.057Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "f53e737d-fca7-4326-85b7-f3d7763c6ffe",
+          "type": "area",
+          "value": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site"
+        }
+      ],
+      "title": "dwadaw",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-19T04:30:00.674Z",
+      "id": "24de8011-4a01-4555-9e3a-1e672f8f7646",
+      "notes": "DO NOT TOUCH",
+      "repoId": "10d1169dcbd35b",
+      "repoName": "Axiom-Pipeline-Engine",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-19T04:14:21.124Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "bc0112dd-a6b2-4510-85b6-5ec607da125b",
+          "type": "area",
+          "value": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine"
+        }
+      ],
+      "title": "Working",
+      "userName": "Aidan"
+    }
+  ],
   "version": 1
 }
