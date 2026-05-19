@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-19T23:48:50.163Z",
+  "deviceId": "d61f60f0-671b-4a47-818a-2c1125f83403",
+  "id": "768dd5a9-ade1-4dfa-a429-74141526de65",
+  "payload": {
+    "session": {
+      "branch": "master",
+      "id": "304e3a62-09b2-4f99-910c-7decb2c1869f",
+      "notes": "Working on it, do not touch code or pull or push anything.",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-19T23:48:50.163Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "48590e35-4005-4ea3-b6a5-c7348057c3cc",
+          "type": "area",
+          "value": "Simplifying UI and make functions automatic and easy."
+        }
+      ],
+      "title": "Simplifying UI and make functions automatic and easy.",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
