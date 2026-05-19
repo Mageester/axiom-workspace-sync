@@ -1,7 +1,53 @@
 {
-  "createdAt": "2026-05-19T15:33:29.979Z",
+  "createdAt": "2026-05-19T15:34:50.227Z",
   "createdByDeviceId": "87321e1c-ee67-4842-afd8-0fddabe19387",
-  "eventsApplied": [],
-  "sessions": [],
+  "eventsApplied": [
+    "a8f6e777-1ce9-4408-b399-737030a2916f",
+    "0e14e894-8548-48cf-81a3-2e3b83aa7c3c",
+    "f2d3efb3-7e68-45f3-a498-8709b0fe0127",
+    "f5eb75e6-74bc-4d21-9f23-278600329f86"
+  ],
+  "sessions": [
+    {
+      "branch": "main",
+      "endedAt": "2026-05-19T15:33:41.733Z",
+      "id": "52839eac-bbca-42e4-95fb-fb557153d0a6",
+      "notes": "wdawdawda",
+      "repoId": "95cd71f38f84bd3b",
+      "repoName": "axiom-site",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-19T04:36:45.057Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "f53e737d-fca7-4326-85b7-f3d7763c6ffe",
+          "type": "area",
+          "value": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site"
+        }
+      ],
+      "title": "dwadaw",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-19T04:30:00.674Z",
+      "id": "24de8011-4a01-4555-9e3a-1e672f8f7646",
+      "notes": "DO NOT TOUCH",
+      "repoId": "10d1169dcbd35b",
+      "repoName": "Axiom-Pipeline-Engine",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-19T04:14:21.124Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "bc0112dd-a6b2-4510-85b6-5ec607da125b",
+          "type": "area",
+          "value": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine"
+        }
+      ],
+      "title": "Working",
+      "userName": "Aidan"
+    }
+  ],
   "version": 1
 }
