@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-19T18:03:11.124Z",
+  "deviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
+  "id": "3636e977-d7a0-4e29-b8ef-73d6bc6f3edc",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "3ff34c8a-2b9c-44f2-aeee-b55602528296",
+      "notes": "Claude limit low, switching to codex soon",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-19T18:03:11.124Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "dfab1b18-9606-4e9b-aee7-ff88a8588324",
+          "type": "area",
+          "value": "Prioritizing intiial outreach over follow-ups"
+        }
+      ],
+      "title": "Prioritizing intiial outreach over follow-ups",
+      "userName": "Riley Hinsperger"
+    }
+  },
+  "type": "session_created",
+  "userName": "Riley Hinsperger",
+  "version": 1
+}
