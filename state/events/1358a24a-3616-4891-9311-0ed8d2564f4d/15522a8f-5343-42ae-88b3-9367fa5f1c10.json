@@ -1,0 +1,13 @@
+{
+  "createdAt": "2026-05-20T00:45:12.273Z",
+  "deviceId": "1358a24a-3616-4891-9311-0ed8d2564f4d",
+  "id": "15522a8f-5343-42ae-88b3-9367fa5f1c10",
+  "payload": {
+    "endNote": "Changed: Upgraded ui simplfied syncing and made onboarding easier.\nHandoff: V0.5.0 Finished (Pre-Release)",
+    "endedAt": "2026-05-20T00:45:12.273Z",
+    "sessionId": "304e3a62-09b2-4f99-910c-7decb2c1869f"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}
