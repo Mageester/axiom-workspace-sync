@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-20T17:42:33.478Z",
+  "createdAt": "2026-05-20T17:43:18.478Z",
   "createdByDeviceId": "73d4dae1-b229-4ddb-a2e0-599163ee3460",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -121,18 +121,22 @@
     "681bf91e-7b77-4341-a5e5-c7e5fcf65254",
     "e3c64642-418e-4d46-9122-c7b2b0b387fd",
     "4fb4e8b7-7582-490a-a0f9-8a9044bc2c5d",
-    "19e208ea-602f-4e46-a1ac-65b7f51cf9dc"
+    "19e208ea-602f-4e46-a1ac-65b7f51cf9dc",
+    "18462a33-89a3-4a68-acfe-29c0961d9bfb",
+    "c96a5c55-5454-428e-b422-1f41842ae218"
   ],
   "sessions": [
     {
       "branch": "main",
+      "endNote": "Changed: Fixed scheduler. Now sends more emails like before.\nHandoff: It should be in a good state although breaks are possible.",
+      "endedAt": "2026-05-20T17:43:14.306Z",
       "id": "13500d3b-16f5-4c08-8a84-8de763497e58",
       "notes": "Do not push anything or make changes, contact Aidan Magee for more information.",
       "repoId": "bbcfb684db790aec",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
       "startedAt": "2026-05-20T13:32:58.144Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "109d9943-a845-4a09-9d70-4970a3cadfbb",
