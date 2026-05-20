@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-20T00:46:32.119Z",
+  "createdAt": "2026-05-20T00:47:17.124Z",
   "createdByDeviceId": "1358a24a-3616-4891-9311-0ed8d2564f4d",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -40,7 +40,9 @@
     "c127ed24-07d9-4bdf-90b7-75af2b0d9f18",
     "15522a8f-5343-42ae-88b3-9367fa5f1c10",
     "386410e0-9c8a-47b2-9c17-7598e39c0b7b",
-    "51b0e978-e410-45ad-ac00-77c879baa22e"
+    "51b0e978-e410-45ad-ac00-77c879baa22e",
+    "d99c82c6-0eff-4995-b37f-ac053e3dbd34",
+    "205f8521-6cf2-407b-b075-bb6e2c37cb2a"
   ],
   "sessions": [
     {
@@ -66,13 +68,14 @@
     },
     {
       "branch": "main",
+      "endedAt": "2026-05-20T00:47:16.271Z",
       "id": "3ff34c8a-2b9c-44f2-aeee-b55602528296",
       "notes": "Claude limit low, switching to codex soon",
       "repoId": "5c2ae79aa23ad525",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
       "startedAt": "2026-05-19T18:03:11.124Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "dfab1b18-9606-4e9b-aee7-ff88a8588324",
