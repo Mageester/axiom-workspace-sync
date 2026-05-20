@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-20T13:32:36.692Z",
+  "createdAt": "2026-05-20T13:33:03.145Z",
   "createdByDeviceId": "61673a3c-a400-424c-8862-6adf5cf861f2",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -45,9 +45,30 @@
     "d99c82c6-0eff-4995-b37f-ac053e3dbd34",
     "205f8521-6cf2-407b-b075-bb6e2c37cb2a",
     "ce5cb0a6-d081-41e5-9d18-a45cc4b87b2d",
-    "6da8f9aa-a4ec-4da7-ac59-79d1afb21d98"
+    "6da8f9aa-a4ec-4da7-ac59-79d1afb21d98",
+    "d5997c89-4f6c-42ee-bf57-5c642c70af75",
+    "7cce8a0d-8df6-422e-882b-870df6900fcd"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "id": "13500d3b-16f5-4c08-8a84-8de763497e58",
+      "notes": "Do not push anything or make changes, contact Aidan Magee for more information.",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-20T13:32:58.144Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "109d9943-a845-4a09-9d70-4970a3cadfbb",
+          "type": "file",
+          "value": ".codex-screenshots/"
+        }
+      ],
+      "title": "Working on fixing pipeline and sending",
+      "userName": "Aidan"
+    },
     {
       "branch": "master",
       "endNote": "Changed: Upgraded ui simplfied syncing and made onboarding easier.\nHandoff: V0.5.0 Finished (Pre-Release)",
