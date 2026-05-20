@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-20T17:59:44.065Z",
+  "deviceId": "73d4dae1-b229-4ddb-a2e0-599163ee3460",
+  "id": "d7958d16-d66a-4b0b-83cf-dac7b7d0ed57",
+  "payload": {
+    "session": {
+      "branch": "master",
+      "id": "a827f57b-4724-415f-897f-b3af289158a2",
+      "notes": "Do not touch or modify.",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-20T17:59:44.065Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "5951dcbe-8aa8-403b-9c90-87425dfc1543",
+          "type": "area",
+          "value": "Full Root Folder"
+        }
+      ],
+      "title": "Full Root Folder",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}

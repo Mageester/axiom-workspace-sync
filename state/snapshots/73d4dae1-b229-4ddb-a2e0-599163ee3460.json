@@ -1,5 +1,5 @@
 {
-  "createdAt": "2026-05-20T17:59:21.084Z",
+  "createdAt": "2026-05-20T17:59:49.069Z",
   "createdByDeviceId": "73d4dae1-b229-4ddb-a2e0-599163ee3460",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -135,9 +135,30 @@
     "a336d8a4-2133-4449-95b7-9a6fd6ac7a31",
     "f764289e-6b5d-4d84-8467-8ea1905b9753",
     "7c34fdeb-65a9-4b85-8dd0-1db1f346343f",
-    "34799726-7424-44b2-9706-37989a8fb281"
+    "34799726-7424-44b2-9706-37989a8fb281",
+    "9bac587d-8fa9-466a-bcf3-b3bef44f35f4",
+    "d7958d16-d66a-4b0b-83cf-dac7b7d0ed57"
   ],
   "sessions": [
+    {
+      "branch": "master",
+      "id": "a827f57b-4724-415f-897f-b3af289158a2",
+      "notes": "Do not touch or modify.",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-20T17:59:44.065Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "5951dcbe-8aa8-403b-9c90-87425dfc1543",
+          "type": "area",
+          "value": "Full Root Folder"
+        }
+      ],
+      "title": "Full Root Folder",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "endNote": "Changed: Fixed scheduler. Now sends more emails like before.\nHandoff: It should be in a good state although breaks are possible.",
