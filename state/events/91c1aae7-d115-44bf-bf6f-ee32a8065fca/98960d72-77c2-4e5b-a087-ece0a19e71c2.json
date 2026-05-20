@@ -1,0 +1,27 @@
+{
+  "createdAt": "2026-05-20T18:20:57.535Z",
+  "deviceId": "91c1aae7-d115-44bf-bf6f-ee32a8065fca",
+  "id": "98960d72-77c2-4e5b-a087-ece0a19e71c2",
+  "payload": {
+    "card": {
+      "acceptanceCriteria": [],
+      "assignee": "you",
+      "branch": "main",
+      "column": "in_progress",
+      "createdAt": "2026-05-20T18:19:53.979Z",
+      "createdBy": "Aidan",
+      "description": "Be sure there are no pauses, errors, or failures during runs.",
+      "id": "2d2792f9-ecb8-4a76-895b-a43aa703e86a",
+      "paths": [],
+      "priority": "urgent",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "title": "Axiom Pipeline Monitor",
+      "updatedAt": "2026-05-20T18:20:57.535Z"
+    }
+  },
+  "type": "board_card_updated",
+  "userName": "Aidan",
+  "version": 1
+}
