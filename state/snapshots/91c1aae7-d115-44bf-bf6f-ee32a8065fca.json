@@ -10,15 +10,15 @@
       "description": "Be sure there are no pauses, errors, or failures during runs.",
       "id": "2d2792f9-ecb8-4a76-895b-a43aa703e86a",
       "paths": [],
-      "priority": "urgent",
+      "priority": "high",
       "repoId": "bbcfb684db790aec",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
       "title": "Axiom Pipeline Monitor",
-      "updatedAt": "2026-05-20T18:21:01.493Z"
+      "updatedAt": "2026-05-20T18:30:27.850Z"
     }
   ],
-  "createdAt": "2026-05-20T18:29:58.104Z",
+  "createdAt": "2026-05-20T18:30:32.866Z",
   "createdByDeviceId": "91c1aae7-d115-44bf-bf6f-ee32a8065fca",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -184,7 +184,9 @@
     "d5df6993-fc2a-4d9a-ad70-8cf8526fc730",
     "13312166-4851-424f-9310-8e5cc9844577",
     "a39e5e41-51a1-46e2-86b1-8ee057894392",
-    "4082135f-9952-4c2d-86b6-e60b427250c8"
+    "4082135f-9952-4c2d-86b6-e60b427250c8",
+    "698c966d-4b78-4e2d-851d-1bfe03ccea2c",
+    "4b5d8f83-da3c-4070-8dcb-17d434befd4c"
   ],
   "sessions": [
     {
