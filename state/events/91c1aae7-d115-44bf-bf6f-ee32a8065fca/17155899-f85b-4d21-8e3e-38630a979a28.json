@@ -1,0 +1,13 @@
+{
+  "createdAt": "2026-05-20T18:20:39.034Z",
+  "deviceId": "91c1aae7-d115-44bf-bf6f-ee32a8065fca",
+  "id": "17155899-f85b-4d21-8e3e-38630a979a28",
+  "payload": {
+    "endNote": "Changed: In stable State\nHandoff: new version ready for download. please update.",
+    "endedAt": "2026-05-20T18:20:39.034Z",
+    "sessionId": "a827f57b-4724-415f-897f-b3af289158a2"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}
