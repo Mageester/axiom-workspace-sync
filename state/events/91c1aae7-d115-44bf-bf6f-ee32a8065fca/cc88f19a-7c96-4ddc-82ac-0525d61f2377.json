@@ -1,0 +1,11 @@
+{
+  "createdAt": "2026-05-20T18:39:14.663Z",
+  "deviceId": "91c1aae7-d115-44bf-bf6f-ee32a8065fca",
+  "id": "cc88f19a-7c96-4ddc-82ac-0525d61f2377",
+  "payload": {
+    "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace"
+  },
+  "type": "repo_refreshed",
+  "userName": "Aidan Magee",
+  "version": 1
+}
