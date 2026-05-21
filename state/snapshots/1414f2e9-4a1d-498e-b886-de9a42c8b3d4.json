@@ -9,16 +9,19 @@
       "createdBy": "Aidan",
       "description": "Be sure there are no pauses, errors, or failures during runs.",
       "id": "2d2792f9-ecb8-4a76-895b-a43aa703e86a",
-      "paths": [],
-      "priority": "high",
+      "linkedSessionId": "7a56037b-2c73-409e-8846-f51f81c6743d",
+      "paths": [
+        "Axiom Pipeline Monitor"
+      ],
+      "priority": "urgent",
       "repoId": "bbcfb684db790aec",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
       "title": "Axiom Pipeline Monitor",
-      "updatedAt": "2026-05-20T18:30:27.850Z"
+      "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-21T15:56:03.838Z",
+  "createdAt": "2026-05-21T15:59:45.310Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -290,9 +293,41 @@
     "5c95693f-a4e2-47ad-b0f7-8c19d5ae821b",
     "162cb3c1-3ab7-468a-a18b-170781ebc8df",
     "f96d6a14-933f-4118-8159-b292407e5f19",
-    "c747035f-2af3-4ed0-a050-d2e4e359829c"
+    "d1d87d5b-9062-4c56-90e6-5e8c3ed622d9",
+    "c747035f-2af3-4ed0-a050-d2e4e359829c",
+    "6057cc95-565f-4cc0-a188-9a86d9fd7b71",
+    "25aeac1b-90a3-43da-8b8f-6a3742178d31",
+    "a9831dd6-92c8-44fd-9226-54266611a1a1",
+    "9a50289d-8acd-42ef-8ce6-1da11aaf0b95",
+    "2d3b0ab0-04b3-43f6-a91c-c1b4679ec320",
+    "f4777195-6c22-4c96-85e1-d892bdde9ca0",
+    "58eb1c56-9074-4bbe-ba3e-9182b658e92e"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "id": "7a56037b-2c73-409e-8846-f51f81c6743d",
+      "notes": "Be sure there are no pauses, errors, or failures during runs.",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-21T15:55:37.081Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "3cb8e731-ca5f-4642-ad11-b7e7b73ce6d5",
+          "type": "area",
+          "value": "Axiom Pipeline Monitor"
+        },
+        {
+          "id": "0838e2df-a482-4911-8861-20c1ebaa3d10",
+          "type": "area",
+          "value": "Axiom Pipeline Monitor"
+        }
+      ],
+      "title": "Axiom Pipeline Monitor",
+      "userName": "Riley"
+    },
     {
       "branch": "master",
       "id": "f2666a3e-50b3-4090-be95-f56d7a51ee14",
