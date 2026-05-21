@@ -1,0 +1,34 @@
+{
+  "createdAt": "2026-05-21T15:55:37.081Z",
+  "deviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
+  "id": "f4777195-6c22-4c96-85e1-d892bdde9ca0",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "7a56037b-2c73-409e-8846-f51f81c6743d",
+      "notes": "Be sure there are no pauses, errors, or failures during runs.",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-21T15:55:37.081Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "3cb8e731-ca5f-4642-ad11-b7e7b73ce6d5",
+          "type": "area",
+          "value": "Axiom Pipeline Monitor"
+        },
+        {
+          "id": "0838e2df-a482-4911-8861-20c1ebaa3d10",
+          "type": "area",
+          "value": "Axiom Pipeline Monitor"
+        }
+      ],
+      "title": "Axiom Pipeline Monitor",
+      "userName": "Riley"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
