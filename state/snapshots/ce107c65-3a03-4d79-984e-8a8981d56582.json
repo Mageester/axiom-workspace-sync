@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-21T15:57:08.740Z",
+  "createdAt": "2026-05-21T15:57:41.919Z",
   "createdByDeviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -302,18 +302,21 @@
     "f4777195-6c22-4c96-85e1-d892bdde9ca0",
     "2d3b0ab0-04b3-43f6-a91c-c1b4679ec320",
     "11f96233-641e-439e-b6b6-bc71273aef3a",
-    "d8821b34-a001-4882-ab74-cdde9d1782c7"
+    "d8821b34-a001-4882-ab74-cdde9d1782c7",
+    "37130898-2559-4949-9627-c3cec54cafab",
+    "b096b6b8-ecde-476c-a602-af435e34d85c"
   ],
   "sessions": [
     {
       "branch": "main",
+      "endedAt": "2026-05-21T15:57:36.906Z",
       "id": "7a56037b-2c73-409e-8846-f51f81c6743d",
       "notes": "Be sure there are no pauses, errors, or failures during runs.",
       "repoId": "bbcfb684db790aec",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
       "startedAt": "2026-05-21T15:55:37.081Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "3cb8e731-ca5f-4642-ad11-b7e7b73ce6d5",
