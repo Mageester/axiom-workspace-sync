@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-21T22:19:15.341Z",
+  "createdAt": "2026-05-21T22:20:00.344Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -314,9 +314,56 @@
     "83497a21-53f1-4fbb-a57f-ab76dc77a078",
     "b0df2287-7d96-4a49-99c6-e8a91cf8bb66",
     "6d05a7c7-c8b5-4008-a49e-cb2005219a2b",
-    "a3430234-7738-4279-ac8c-6e82f258a2dd"
+    "11459b98-ee48-4470-a00c-718382e62a45",
+    "a3430234-7738-4279-ac8c-6e82f258a2dd",
+    "8de70ac6-392b-4756-8276-eb29c50855a0",
+    "80f8c8d5-38df-40a7-b55b-9c9eec2da04a",
+    "09a1fa0e-05e5-4948-9752-ed242411f6dd",
+    "7a176608-3750-4329-82cc-33383fb73faf",
+    "da0eb123-c0e9-4574-ab95-f179cbf6c2ae",
+    "3d6feb32-9d0c-477f-86d9-95f7fbf9909e",
+    "d68fdfd8-a321-4894-adf7-35569bdcf80d",
+    "7ec6c797-1fc4-47c9-96d7-aa06c6e1943a",
+    "981b29d5-f8d6-4186-8367-2ecaf0af9dd3",
+    "3397c475-82f9-411d-af9b-ab0cd4b63fcb",
+    "9f7796c6-dfc2-4a0f-90fb-1836a4c9aabd",
+    "dcda7a1a-262c-4ce7-a0c4-af7142af3062",
+    "43610e93-a296-486c-8abb-930702f0cc59",
+    "62dfb4da-3217-465e-8c32-f985aec6abb3",
+    "9d89ff92-b519-41a8-9830-7a847ec6e7b2",
+    "cdea9893-e5f8-4199-ad4f-0383df7821af",
+    "6bf4c82e-5869-422c-b872-cce5801e76e5",
+    "10fc1166-e339-486d-a425-1c8864b52b30",
+    "121d14be-aae8-4d2a-9dc0-8fcbde816f5e",
+    "82e4db3c-2467-4bfe-a46f-e11c756efc5b",
+    "9eb93c4a-7586-4a74-b1ca-c05fe9f5e748",
+    "c6a8d54a-e4ca-4371-94fc-cad18b6ecbc3",
+    "d50c1426-18a5-4da6-b812-c771db4db89a",
+    "887d7c08-b8a4-4c31-bb9c-1cb9fc5d352b",
+    "dfe00a28-b07d-4dfa-a8df-e26e68897cf7",
+    "9646fc47-56cc-4bb3-87bb-ac1c694b6ed3"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "endedAt": "2026-05-21T16:51:25.605Z",
+      "id": "5d021617-edba-43d0-8a06-e493d9a2c730",
+      "notes": "Refreshing Site",
+      "repoId": "acaf6c4e7dd9d0d1",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-21T16:30:00.008Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "3c965269-0fc3-407a-9067-90573b9b7c49",
+          "type": "area",
+          "value": "Refresh"
+        }
+      ],
+      "title": "Refresh",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "endedAt": "2026-05-21T15:57:36.906Z",
@@ -344,13 +391,15 @@
     },
     {
       "branch": "master",
+      "endNote": "Changed: 1.0 Done\nHandoff: In good state.",
+      "endedAt": "2026-05-21T16:29:34.197Z",
       "id": "f2666a3e-50b3-4090-be95-f56d7a51ee14",
       "notes": "Working on final version",
       "repoId": "556c11ca437d9616",
       "repoName": "Axiom Workspace",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
       "startedAt": "2026-05-21T15:48:08.574Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "ab1a7712-77d2-45da-bacc-9e1ec9e96104",
