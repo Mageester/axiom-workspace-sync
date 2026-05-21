@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-05-21T15:17:59.124Z",
+  "deviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
+  "id": "847f3cb1-9dfb-45cb-b10f-1d57216f3694",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "b5797cea-5333-45dc-b22c-e29fcb3fa8e6",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-21T15:17:59.124Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "72dea679-dbcc-43b4-9452-bdafddab6f63",
+          "type": "area",
+          "value": "Still not fucking working"
+        }
+      ],
+      "title": "Still not fucking working",
+      "userName": "Riley Hinsperger"
+    }
+  },
+  "type": "session_created",
+  "userName": "Riley Hinsperger",
+  "version": 1
+}

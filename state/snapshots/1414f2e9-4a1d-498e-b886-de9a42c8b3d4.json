@@ -18,7 +18,7 @@
       "updatedAt": "2026-05-20T18:30:27.850Z"
     }
   ],
-  "createdAt": "2026-05-21T15:17:33.830Z",
+  "createdAt": "2026-05-21T15:18:04.132Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -196,6 +196,7 @@
     "cc88f19a-7c96-4ddc-82ac-0525d61f2377",
     "050e0519-b213-4727-aca3-67a3dec145a5",
     "fd6fd410-dbe4-47fe-b3d3-da1666e4fe41",
+    "6ce0aa5b-3db6-4fa1-880c-58ab9dcf2d69",
     "d69addd5-e50d-4a63-807b-f72663efa9c4",
     "c6e33dc7-628f-40ce-97d6-bfe680106d53",
     "ceb1e73a-ca5e-4b6b-b2f6-721438f8886d",
@@ -238,9 +239,58 @@
     "27e67592-6b8a-4aa1-92a2-c92b70a936d3",
     "c9eccb9b-bba7-44b6-9d2b-dcaf8aa9cf57",
     "d07801b0-7240-45a3-8542-7f41d3bdfbad",
-    "7eb0f50b-f8e8-430c-871d-29dacee794cf"
+    "7eb0f50b-f8e8-430c-871d-29dacee794cf",
+    "b9f8ab84-cbcd-474e-85d0-1664586df2f6",
+    "04f83838-34fb-4324-833e-ba79f37aa5d4",
+    "d82d0f51-df6b-450c-945f-cf330d562f90",
+    "22dbbcaa-456c-4c0f-84b9-6006e98aa6c8",
+    "aa4f2d5b-c50d-4442-93b9-d7ec99f5a7a5",
+    "a01307f9-5c61-430b-90a2-3509f9a6c0a0",
+    "97e9ea74-5b79-45fe-87b0-b34c623d01df",
+    "d977a971-3c3e-4c3f-9d50-5146be117e2b",
+    "f351ebc4-44a6-4132-b0b0-d281b86e4124",
+    "2a66efb4-0469-4ce1-8f2c-c1a9093e2b8d",
+    "f193a66e-e81c-4f00-8d64-18bee1447764",
+    "847f3cb1-9dfb-45cb-b10f-1d57216f3694"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "id": "b5797cea-5333-45dc-b22c-e29fcb3fa8e6",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-21T15:17:59.124Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "72dea679-dbcc-43b4-9452-bdafddab6f63",
+          "type": "area",
+          "value": "Still not fucking working"
+        }
+      ],
+      "title": "Still not fucking working",
+      "userName": "Riley Hinsperger"
+    },
+    {
+      "branch": "main",
+      "id": "d4fdbb3d-3298-4630-a799-4f504e5c5619",
+      "notes": "No Touch",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-21T15:00:02.954Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "3c215f7b-24af-448f-89ec-b617983bcdfe",
+          "type": "area",
+          "value": "Worker Timeout"
+        }
+      ],
+      "title": "Worker Timeout",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "endNote": "Changed: Pipeline now fixed. Ran out of claude usage before I could finish last UI Commit.\nHandoff: Don't touch repo until we've talked tomorrow.",
