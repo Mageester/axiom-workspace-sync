@@ -18,7 +18,7 @@
       "updatedAt": "2026-05-20T18:30:27.850Z"
     }
   ],
-  "createdAt": "2026-05-21T14:59:38.738Z",
+  "createdAt": "2026-05-21T15:00:07.967Z",
   "createdByDeviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -31,6 +31,7 @@
     "1517686e-86f2-49f9-b9cd-e7e91674e4c7",
     "082b9125-4cfb-4172-9d08-bbdfc2427491",
     "3636e977-d7a0-4e29-b8ef-73d6bc6f3edc",
+    "120a1047-e39d-4f3d-a65a-97b03008ed68",
     "6c3c601d-2606-4199-aa68-ca74d191e075",
     "03d278d3-496d-403f-9c9d-f59441c557a5",
     "49fd7e43-c5ce-4b3c-bf78-e645b64d2c9d",
@@ -195,9 +196,92 @@
     "cc88f19a-7c96-4ddc-82ac-0525d61f2377",
     "050e0519-b213-4727-aca3-67a3dec145a5",
     "fd6fd410-dbe4-47fe-b3d3-da1666e4fe41",
-    "6ce0aa5b-3db6-4fa1-880c-58ab9dcf2d69"
+    "6ce0aa5b-3db6-4fa1-880c-58ab9dcf2d69",
+    "d69addd5-e50d-4a63-807b-f72663efa9c4",
+    "c6e33dc7-628f-40ce-97d6-bfe680106d53",
+    "ceb1e73a-ca5e-4b6b-b2f6-721438f8886d",
+    "4cd6a1a6-51aa-4cdb-aca8-69c6c8c0cd01",
+    "a3e67422-f9cb-4fe7-b2c4-ddffd3a37727",
+    "b13acc95-7007-4bd7-8d9c-72d6b90a0c0d",
+    "29a26dc6-56d3-49cf-952e-22a302f7205c",
+    "6ff95ad1-586d-4be3-aef4-a36c08ce8e03",
+    "fde0f9b4-d600-495c-ae09-f55750ee5d71",
+    "95139747-f795-4635-9070-50ff81c565a4",
+    "d8607d03-6294-43a1-a743-bad5fcd65c11",
+    "5bad8ccf-4832-4dcc-8175-5c6ef2a7b789",
+    "637580cb-97fa-4ff8-bcc5-efb428d9ca5e",
+    "d94852f4-0963-45bc-80bb-92ba1e01b847",
+    "b6d7c798-7bb6-4471-9db4-802fcb38ee76",
+    "4381bdc2-d44e-439f-92f7-4c0c1682ff55",
+    "1c142ed1-74d5-4de0-872f-b2040bbd7f1a",
+    "170cbd28-226f-49c4-86ca-5f1ee9eb1420",
+    "314074a0-b86a-41a4-82b0-388c19747def",
+    "4642d86d-84f8-4ccb-9d40-77313ee009e0",
+    "a1769412-e94b-4a64-a060-e8253ceb9b12",
+    "25c36a3b-21fb-42a0-a88a-c684f305d455",
+    "fadcb9f4-3296-4ae6-aacf-85125e1a5b64",
+    "7a2f8d7b-7f7d-48ea-942b-d0be777a37ed",
+    "a86934fc-a925-47a0-a663-be8a3d65e134",
+    "08c35636-7140-45cc-a790-edcb3643dca7",
+    "ea0e21a9-bf59-473d-b924-11c27fcdec0d",
+    "f9e0ef73-3561-403d-acee-1ea217fb8f8b",
+    "98325c4a-8ec6-4bdc-a115-7ddfe32ed529",
+    "9a38cae1-f0b4-4f52-9af9-04fb272d1d22",
+    "0d4811b2-4be7-46cb-b085-da8a0838dc82",
+    "c56b503b-b639-49ab-a58c-fc64d7fa1678",
+    "a7073685-ff8b-47d3-9913-7b7a656f8b59",
+    "98a5af36-a1f0-4a5a-8f69-b0985ee195c9",
+    "23d10b37-ebc5-4709-971b-1c2a9709c264",
+    "81d92e7c-90a1-4286-af63-2e0b22572549",
+    "d366bd91-05d3-42d5-9801-00eda9438f8b",
+    "8c4aaea2-f450-4f7b-a3c8-082a409fe7b0",
+    "bae1ebb1-8291-4dbc-a3a5-79952e35653c",
+    "27e67592-6b8a-4aa1-92a2-c92b70a936d3",
+    "c9eccb9b-bba7-44b6-9d2b-dcaf8aa9cf57",
+    "d07801b0-7240-45a3-8542-7f41d3bdfbad",
+    "b9f8ab84-cbcd-474e-85d0-1664586df2f6",
+    "04f83838-34fb-4324-833e-ba79f37aa5d4"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "id": "d4fdbb3d-3298-4630-a799-4f504e5c5619",
+      "notes": "No Touch",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-21T15:00:02.954Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "3c215f7b-24af-448f-89ec-b617983bcdfe",
+          "type": "area",
+          "value": "Worker Timeout"
+        }
+      ],
+      "title": "Worker Timeout",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endNote": "Changed: Pipeline now fixed. Ran out of claude usage before I could finish last UI Commit.\nHandoff: Don't touch repo until we've talked tomorrow.",
+      "endedAt": "2026-05-21T04:24:52.323Z",
+      "id": "fe893c9f-8426-452e-a1b8-400c277c8353",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-21T03:04:37.618Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "eb193b67-ad3f-4fa2-bf1f-4d205e67537c",
+          "type": "area",
+          "value": "Sends not sending still"
+        }
+      ],
+      "title": "Sends not sending still",
+      "userName": "Riley Hinsperger"
+    },
     {
       "branch": "master",
       "endNote": "Changed: In stable State\nHandoff: new version ready for download. please update.",

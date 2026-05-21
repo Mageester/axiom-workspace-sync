@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-21T15:00:02.954Z",
+  "deviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
+  "id": "04f83838-34fb-4324-833e-ba79f37aa5d4",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "d4fdbb3d-3298-4630-a799-4f504e5c5619",
+      "notes": "No Touch",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-21T15:00:02.954Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "3c215f7b-24af-448f-89ec-b617983bcdfe",
+          "type": "area",
+          "value": "Worker Timeout"
+        }
+      ],
+      "title": "Worker Timeout",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
