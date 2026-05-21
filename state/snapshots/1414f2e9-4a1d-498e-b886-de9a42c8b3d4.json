@@ -18,7 +18,7 @@
       "updatedAt": "2026-05-20T18:30:27.850Z"
     }
   ],
-  "createdAt": "2026-05-21T15:49:33.840Z",
+  "createdAt": "2026-05-21T15:52:48.837Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -280,9 +280,35 @@
     "8a57177e-2a05-4a53-94fc-e8b6e2a5a29e",
     "4243789f-a955-4414-9348-2e9d86fc89a6",
     "b9bc2295-9d6a-43ca-bfae-d1bf48b5db28",
-    "c194da02-c12b-4670-9bee-81ef444a32c2"
+    "8957f937-bbef-4231-99ac-505e7a187df7",
+    "c194da02-c12b-4670-9bee-81ef444a32c2",
+    "196ca532-8225-46cf-a4dc-488ffe2713f5",
+    "73c7c5d1-1a3d-4c2d-a604-3087e88122f2",
+    "c7382050-dbe8-4e1e-97e2-2687f5e72523",
+    "97eca66a-9d85-4c78-80c8-c4aa936331d0",
+    "8dde3ec3-5c6a-40c8-985c-ac885b3ac572",
+    "f96d6a14-933f-4118-8159-b292407e5f19"
   ],
   "sessions": [
+    {
+      "branch": "master",
+      "id": "f2666a3e-50b3-4090-be95-f56d7a51ee14",
+      "notes": "Working on final version",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-21T15:48:08.574Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "ab1a7712-77d2-45da-bacc-9e1ec9e96104",
+          "type": "file",
+          "value": "rc-tauri/Cargo.lock"
+        }
+      ],
+      "title": "1.0 Release",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "id": "b5797cea-5333-45dc-b22c-e29fcb3fa8e6",
@@ -303,13 +329,14 @@
     },
     {
       "branch": "main",
+      "endedAt": "2026-05-21T15:47:47.191Z",
       "id": "d4fdbb3d-3298-4630-a799-4f504e5c5619",
       "notes": "No Touch",
       "repoId": "bbcfb684db790aec",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
       "startedAt": "2026-05-21T15:00:02.954Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "3c215f7b-24af-448f-89ec-b617983bcdfe",
