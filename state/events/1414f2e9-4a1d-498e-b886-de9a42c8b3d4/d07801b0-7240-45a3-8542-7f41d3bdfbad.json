@@ -1,0 +1,13 @@
+{
+  "createdAt": "2026-05-21T04:24:52.323Z",
+  "deviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
+  "id": "d07801b0-7240-45a3-8542-7f41d3bdfbad",
+  "payload": {
+    "endNote": "Changed: Pipeline now fixed. Ran out of claude usage before I could finish last UI Commit.\nHandoff: Don't touch repo until we've talked tomorrow.",
+    "endedAt": "2026-05-21T04:24:52.323Z",
+    "sessionId": "fe893c9f-8426-452e-a1b8-400c277c8353"
+  },
+  "type": "session_ended",
+  "userName": "Riley Hinsperger",
+  "version": 1
+}

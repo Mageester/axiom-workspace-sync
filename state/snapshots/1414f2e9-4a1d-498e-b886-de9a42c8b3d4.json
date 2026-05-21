@@ -18,7 +18,7 @@
       "updatedAt": "2026-05-20T18:30:27.850Z"
     }
   ],
-  "createdAt": "2026-05-21T04:24:35.202Z",
+  "createdAt": "2026-05-21T04:24:57.329Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -234,17 +234,21 @@
     "81d92e7c-90a1-4286-af63-2e0b22572549",
     "d366bd91-05d3-42d5-9801-00eda9438f8b",
     "8c4aaea2-f450-4f7b-a3c8-082a409fe7b0",
-    "27e67592-6b8a-4aa1-92a2-c92b70a936d3"
+    "27e67592-6b8a-4aa1-92a2-c92b70a936d3",
+    "c9eccb9b-bba7-44b6-9d2b-dcaf8aa9cf57",
+    "d07801b0-7240-45a3-8542-7f41d3bdfbad"
   ],
   "sessions": [
     {
       "branch": "main",
+      "endNote": "Changed: Pipeline now fixed. Ran out of claude usage before I could finish last UI Commit.\nHandoff: Don't touch repo until we've talked tomorrow.",
+      "endedAt": "2026-05-21T04:24:52.323Z",
       "id": "fe893c9f-8426-452e-a1b8-400c277c8353",
       "repoId": "5c2ae79aa23ad525",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
       "startedAt": "2026-05-21T03:04:37.618Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "eb193b67-ad3f-4fa2-bf1f-4d205e67537c",
