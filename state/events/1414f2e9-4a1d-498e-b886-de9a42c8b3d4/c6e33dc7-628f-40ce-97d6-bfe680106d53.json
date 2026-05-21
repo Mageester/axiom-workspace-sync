@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-05-21T03:04:37.618Z",
+  "deviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
+  "id": "c6e33dc7-628f-40ce-97d6-bfe680106d53",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "fe893c9f-8426-452e-a1b8-400c277c8353",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-21T03:04:37.618Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "eb193b67-ad3f-4fa2-bf1f-4d205e67537c",
+          "type": "area",
+          "value": "Sends not sending still"
+        }
+      ],
+      "title": "Sends not sending still",
+      "userName": "Riley Hinsperger"
+    }
+  },
+  "type": "session_created",
+  "userName": "Riley Hinsperger",
+  "version": 1
+}
