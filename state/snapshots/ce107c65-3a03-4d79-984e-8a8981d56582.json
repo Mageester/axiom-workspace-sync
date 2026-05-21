@@ -18,7 +18,7 @@
       "updatedAt": "2026-05-20T18:30:27.850Z"
     }
   ],
-  "createdAt": "2026-05-21T15:47:52.194Z",
+  "createdAt": "2026-05-21T15:48:13.581Z",
   "createdByDeviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -282,9 +282,30 @@
     "b9bc2295-9d6a-43ca-bfae-d1bf48b5db28",
     "8957f937-bbef-4231-99ac-505e7a187df7",
     "196ca532-8225-46cf-a4dc-488ffe2713f5",
-    "73c7c5d1-1a3d-4c2d-a604-3087e88122f2"
+    "73c7c5d1-1a3d-4c2d-a604-3087e88122f2",
+    "c7382050-dbe8-4e1e-97e2-2687f5e72523",
+    "97eca66a-9d85-4c78-80c8-c4aa936331d0"
   ],
   "sessions": [
+    {
+      "branch": "master",
+      "id": "f2666a3e-50b3-4090-be95-f56d7a51ee14",
+      "notes": "Working on final version",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-21T15:48:08.574Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "ab1a7712-77d2-45da-bacc-9e1ec9e96104",
+          "type": "file",
+          "value": "rc-tauri/Cargo.lock"
+        }
+      ],
+      "title": "1.0 Release",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "id": "b5797cea-5333-45dc-b22c-e29fcb3fa8e6",

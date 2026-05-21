@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-21T15:48:08.574Z",
+  "deviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
+  "id": "97eca66a-9d85-4c78-80c8-c4aa936331d0",
+  "payload": {
+    "session": {
+      "branch": "master",
+      "id": "f2666a3e-50b3-4090-be95-f56d7a51ee14",
+      "notes": "Working on final version",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-21T15:48:08.574Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "ab1a7712-77d2-45da-bacc-9e1ec9e96104",
+          "type": "file",
+          "value": "rc-tauri/Cargo.lock"
+        }
+      ],
+      "title": "1.0 Release",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
