@@ -18,7 +18,7 @@
       "updatedAt": "2026-05-20T18:30:27.850Z"
     }
   ],
-  "createdAt": "2026-05-21T15:18:08.541Z",
+  "createdAt": "2026-05-21T15:19:08.739Z",
   "createdByDeviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -251,10 +251,31 @@
     "f351ebc4-44a6-4132-b0b0-d281b86e4124",
     "2a66efb4-0469-4ce1-8f2c-c1a9093e2b8d",
     "e684992c-c64d-4531-b9c4-1c2ccce227af",
+    "f193a66e-e81c-4f00-8d64-18bee1447764",
     "9ec8288a-7ad5-48eb-86c1-0556a4770670",
-    "5b1b2c32-dc28-4502-a160-a18b115cc080"
+    "847f3cb1-9dfb-45cb-b10f-1d57216f3694",
+    "5b1b2c32-dc28-4502-a160-a18b115cc080",
+    "96106d4e-8448-4fc7-8776-88a6692035bf"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "id": "b5797cea-5333-45dc-b22c-e29fcb3fa8e6",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-21T15:17:59.124Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "72dea679-dbcc-43b4-9452-bdafddab6f63",
+          "type": "area",
+          "value": "Still not fucking working"
+        }
+      ],
+      "title": "Still not fucking working",
+      "userName": "Riley Hinsperger"
+    },
     {
       "branch": "main",
       "id": "d4fdbb3d-3298-4630-a799-4f504e5c5619",
