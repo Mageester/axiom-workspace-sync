@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-21T16:30:00.009Z",
+  "deviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
+  "id": "dcda7a1a-262c-4ce7-a0c4-af7142af3062",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "5d021617-edba-43d0-8a06-e493d9a2c730",
+      "notes": "Refreshing Site",
+      "repoId": "acaf6c4e7dd9d0d1",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-21T16:30:00.008Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "3c965269-0fc3-407a-9067-90573b9b7c49",
+          "type": "area",
+          "value": "Refresh"
+        }
+      ],
+      "title": "Refresh",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}

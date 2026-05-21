@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-21T16:29:44.620Z",
+  "createdAt": "2026-05-21T16:30:05.014Z",
   "createdByDeviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -324,9 +324,30 @@
     "d68fdfd8-a321-4894-adf7-35569bdcf80d",
     "7ec6c797-1fc4-47c9-96d7-aa06c6e1943a",
     "981b29d5-f8d6-4186-8367-2ecaf0af9dd3",
-    "3397c475-82f9-411d-af9b-ab0cd4b63fcb"
+    "3397c475-82f9-411d-af9b-ab0cd4b63fcb",
+    "9f7796c6-dfc2-4a0f-90fb-1836a4c9aabd",
+    "dcda7a1a-262c-4ce7-a0c4-af7142af3062"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "id": "5d021617-edba-43d0-8a06-e493d9a2c730",
+      "notes": "Refreshing Site",
+      "repoId": "acaf6c4e7dd9d0d1",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-21T16:30:00.008Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "3c965269-0fc3-407a-9067-90573b9b7c49",
+          "type": "area",
+          "value": "Refresh"
+        }
+      ],
+      "title": "Refresh",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "endedAt": "2026-05-21T15:57:36.906Z",
