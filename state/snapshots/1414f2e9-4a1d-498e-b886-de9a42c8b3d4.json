@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-22T05:56:15.606Z",
+  "createdAt": "2026-05-22T05:59:30.620Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -483,7 +483,8 @@
     "2a5c0ebd-fb8a-40b3-8fc3-098357bdf115",
     "e5b4d429-6239-4f33-9ae1-fa9820090f78",
     "be7246e1-c89f-46f9-8cd3-39ada626fc75",
-    "5bf4fd75-f37c-4625-a6b0-15f42ca12c6b"
+    "5bf4fd75-f37c-4625-a6b0-15f42ca12c6b",
+    "6f1f9b10-bec4-48b2-8638-02d580c26bd7"
   ],
   "sessions": [
     {
