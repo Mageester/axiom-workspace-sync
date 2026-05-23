@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-23T19:27:05.039Z",
+  "deviceId": "16a674cd-4611-4c35-8c2d-491b142c88cb",
+  "id": "c516a25a-3242-497d-9fab-392142b9b0fd",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "84f909d0-c2da-4312-9e60-59c320f4771b",
+      "notes": "Backend Fine tuning (small changes)",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-23T19:27:05.039Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "0ae3696b-1e65-4f6f-8dd8-ca85af0f7edc",
+          "type": "area",
+          "value": "Doing some small fine tuning"
+        }
+      ],
+      "title": "Doing some small fine tuning",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
