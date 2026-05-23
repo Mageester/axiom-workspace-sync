@@ -1,0 +1,12 @@
+{
+  "createdAt": "2026-05-23T21:31:22.034Z",
+  "deviceId": "fd493ebb-4e9c-4ce1-a677-8e67680e8910",
+  "id": "58998226-7a3c-46e2-9de4-47af9a61c7c8",
+  "payload": {
+    "endedAt": "2026-05-23T21:31:22.033Z",
+    "sessionId": "c3faacc4-5aa4-4303-95f8-21d643f50499"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}
