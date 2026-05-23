@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-23T20:09:28.730Z",
+  "createdAt": "2026-05-23T20:12:43.735Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -68,6 +68,7 @@
     "d99c82c6-0eff-4995-b37f-ac053e3dbd34",
     "205f8521-6cf2-407b-b075-bb6e2c37cb2a",
     "ce5cb0a6-d081-41e5-9d18-a45cc4b87b2d",
+    "9a8f57f2-f30d-4161-966e-140e02ba881d",
     "6da8f9aa-a4ec-4da7-ac59-79d1afb21d98",
     "d5997c89-4f6c-42ee-bf57-5c642c70af75",
     "7cce8a0d-8df6-422e-882b-870df6900fcd",
@@ -917,9 +918,76 @@
     "0d5ea111-325b-4014-8b73-9e180db90406",
     "96e35872-5a94-4e4f-95c5-dbf6bb5bbe24",
     "2c984d2e-78aa-4338-b2ce-049a98444c3c",
-    "d3e9c868-e8fb-4e41-9551-00019b13e172"
+    "d3e9c868-e8fb-4e41-9551-00019b13e172",
+    "f8f85ad2-cd49-45c3-a508-81e46d1399ad",
+    "b213932a-9e97-4059-8a08-ba742fc6aeb8",
+    "c516a25a-3242-497d-9fab-392142b9b0fd",
+    "3a08c69a-ece4-4ae5-be3f-1f8bbf206373",
+    "fa6a7f5c-0187-4bfb-853b-7733b4c547ed",
+    "13d4bd79-b695-4bd8-b7e0-9aa271092be6",
+    "a7bcaf2a-efea-441f-b694-9c0f26db7d04",
+    "d83ba841-0a73-4a3b-8df3-ab95cbc9af29",
+    "f90bc2b1-929d-46cf-a6c2-787dff6417c6",
+    "280a60d5-e920-4519-b610-fbb197856533",
+    "1a099e66-d900-4f40-8977-707d543e5ee4",
+    "573c08eb-bd71-458c-92c6-1727e3ae339f",
+    "5d4a287f-d953-4e16-9023-950f741999f0",
+    "914c4ca6-37db-4713-bbbe-5c57cf7b2fd8",
+    "acdc26f0-19b5-41a0-a1f3-66bb10ca981d",
+    "0e156cf0-f418-4495-84c2-18ee55d02712",
+    "faa2aaf4-8856-464a-9c2a-d695143c856c",
+    "c1e53a90-4d66-44b2-a201-9946da36fbbc",
+    "f4f05065-ecb9-47d1-83a0-e9750cfa917e",
+    "de4a02bb-0b60-4428-a75a-e05e7fc8ca01",
+    "e77a9f60-927f-45f9-98d1-21ec594835dd",
+    "31113faa-1a91-4459-ae65-f133a39e0b3f",
+    "6aa5ee1d-dce1-4520-8e60-826c5361816a",
+    "078ca9a0-228b-4196-a0f9-42ff534aaa67",
+    "c2d3f187-b30d-4280-90d9-ddb96ade66c1",
+    "f2f60842-79d9-4bb1-9d17-17703b1675ff",
+    "62908a84-ebd5-4a31-870a-e6e15778a2c8"
   ],
   "sessions": [
+    {
+      "branch": "master",
+      "id": "c3faacc4-5aa4-4303-95f8-21d643f50499",
+      "notes": "Updating Useability and simpleness.",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-23T20:09:01.376Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "4cd581eb-73de-4282-a2e0-02ba5a3b651f",
+          "type": "area",
+          "value": "Adding Cards"
+        }
+      ],
+      "title": "Adding Cards",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endNote": "Changed: Fixed a stale quarantine worker.\nHandoff: Not much changed at all, in process of verifying that everything still works perfectly comparing to riley's good fixes.",
+      "endedAt": "2026-05-23T20:00:12.249Z",
+      "id": "84f909d0-c2da-4312-9e60-59c320f4771b",
+      "notes": "Backend Fine tuning (small changes)",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-23T19:27:05.039Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "0ae3696b-1e65-4f6f-8dd8-ca85af0f7edc",
+          "type": "area",
+          "value": "Doing some small fine tuning"
+        }
+      ],
+      "title": "Doing some small fine tuning",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "endedAt": "2026-05-21T16:51:25.605Z",
