@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-23T21:33:58.735Z",
+  "createdAt": "2026-05-23T21:37:13.739Z",
   "createdByDeviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -997,18 +997,42 @@
     "00b2f374-cf14-4df8-b874-25444e16ccc0",
     "f579fc71-b5af-4c6b-89fc-682bf59ceb24",
     "ac69e9e2-6bb9-4f3f-ad77-85bab6a633d7",
-    "3f6b98c1-5a17-4daf-87a6-c7d8261e9aa0"
+    "3f6b98c1-5a17-4daf-87a6-c7d8261e9aa0",
+    "58998226-7a3c-46e2-9de4-47af9a61c7c8",
+    "9a000d24-23de-4ef6-9154-ac2de2bdbe1b",
+    "63d6109e-7f0b-456a-90f7-e943f5ba0afb",
+    "65d9e628-5e17-4589-a26e-860ae1b4a612"
   ],
   "sessions": [
     {
       "branch": "master",
+      "endedAt": "2026-05-23T21:31:54.983Z",
+      "id": "195bfa48-a0dc-4683-bb46-0039639a14ce",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-23T21:31:42.415Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "59d5cb23-4f3d-494c-8e92-d6721d07b54b",
+          "type": "area",
+          "value": "Working"
+        }
+      ],
+      "title": "Working",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "master",
+      "endedAt": "2026-05-23T21:31:22.033Z",
       "id": "c3faacc4-5aa4-4303-95f8-21d643f50499",
       "notes": "Updating Useability and simpleness.",
       "repoId": "9b7bb92620b5dd90",
       "repoName": "Axiom Workspace",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
       "startedAt": "2026-05-23T20:09:01.376Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "4cd581eb-73de-4282-a2e0-02ba5a3b651f",
