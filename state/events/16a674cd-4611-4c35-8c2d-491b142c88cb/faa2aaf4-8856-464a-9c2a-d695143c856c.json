@@ -1,0 +1,13 @@
+{
+  "createdAt": "2026-05-23T20:00:12.250Z",
+  "deviceId": "16a674cd-4611-4c35-8c2d-491b142c88cb",
+  "id": "faa2aaf4-8856-464a-9c2a-d695143c856c",
+  "payload": {
+    "endNote": "Changed: Fixed a stale quarantine worker.\nHandoff: Not much changed at all, in process of verifying that everything still works perfectly comparing to riley's good fixes.",
+    "endedAt": "2026-05-23T20:00:12.249Z",
+    "sessionId": "84f909d0-c2da-4312-9e60-59c320f4771b"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}

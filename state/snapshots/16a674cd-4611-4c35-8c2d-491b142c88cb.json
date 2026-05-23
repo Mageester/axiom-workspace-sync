@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-23T20:00:01.923Z",
+  "createdAt": "2026-05-23T20:00:17.254Z",
   "createdByDeviceId": "16a674cd-4611-4c35-8c2d-491b142c88cb",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -932,18 +932,22 @@
     "573c08eb-bd71-458c-92c6-1727e3ae339f",
     "5d4a287f-d953-4e16-9023-950f741999f0",
     "914c4ca6-37db-4713-bbbe-5c57cf7b2fd8",
-    "acdc26f0-19b5-41a0-a1f3-66bb10ca981d"
+    "acdc26f0-19b5-41a0-a1f3-66bb10ca981d",
+    "0e156cf0-f418-4495-84c2-18ee55d02712",
+    "faa2aaf4-8856-464a-9c2a-d695143c856c"
   ],
   "sessions": [
     {
       "branch": "main",
+      "endNote": "Changed: Fixed a stale quarantine worker.\nHandoff: Not much changed at all, in process of verifying that everything still works perfectly comparing to riley's good fixes.",
+      "endedAt": "2026-05-23T20:00:12.249Z",
       "id": "84f909d0-c2da-4312-9e60-59c320f4771b",
       "notes": "Backend Fine tuning (small changes)",
       "repoId": "ca2474bb092268a7",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
       "startedAt": "2026-05-23T19:27:05.039Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "0ae3696b-1e65-4f6f-8dd8-ca85af0f7edc",
