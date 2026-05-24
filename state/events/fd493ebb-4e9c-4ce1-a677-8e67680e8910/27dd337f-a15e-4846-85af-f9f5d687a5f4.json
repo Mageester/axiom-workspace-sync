@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-05-24T15:27:20.029Z",
+  "deviceId": "fd493ebb-4e9c-4ce1-a677-8e67680e8910",
+  "id": "27dd337f-a15e-4846-85af-f9f5d687a5f4",
+  "payload": {
+    "session": {
+      "branch": "master",
+      "id": "fa141aec-a1b5-4f09-b047-793448fbd3de",
+      "repoId": "c6fe1e008162daec",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
+      "startedAt": "2026-05-24T15:27:20.029Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "4e5038b4-d79c-4b10-a49c-8b4a27aaae36",
+          "type": "area",
+          "value": "Some polishing."
+        }
+      ],
+      "title": "Some polishing.",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}

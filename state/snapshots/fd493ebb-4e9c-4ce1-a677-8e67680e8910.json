@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-24T15:24:07.085Z",
+  "createdAt": "2026-05-24T15:27:22.087Z",
   "createdByDeviceId": "fd493ebb-4e9c-4ce1-a677-8e67680e8910",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1144,9 +1144,28 @@
     "9d6125ad-37f0-4dd3-ad70-5791626729ab",
     "4359017a-e620-456f-902a-85ce13f7c13c",
     "7ff9b1d8-caf3-4c96-b341-0d54ca674ac0",
-    "862a1d5d-9891-497e-9e0d-8889fffda4bc"
+    "862a1d5d-9891-497e-9e0d-8889fffda4bc",
+    "27dd337f-a15e-4846-85af-f9f5d687a5f4"
   ],
   "sessions": [
+    {
+      "branch": "master",
+      "id": "fa141aec-a1b5-4f09-b047-793448fbd3de",
+      "repoId": "c6fe1e008162daec",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
+      "startedAt": "2026-05-24T15:27:20.029Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "4e5038b4-d79c-4b10-a49c-8b4a27aaae36",
+          "type": "area",
+          "value": "Some polishing."
+        }
+      ],
+      "title": "Some polishing.",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "id": "0061cafc-b01d-4845-98dc-81a7ad5c5e75",
