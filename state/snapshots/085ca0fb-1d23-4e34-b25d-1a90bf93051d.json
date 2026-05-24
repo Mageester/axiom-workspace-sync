@@ -1,6 +1,27 @@
 {
-  "cards": [],
-  "createdAt": "2026-05-24T16:36:43.336Z",
+  "cards": [
+    {
+      "acceptanceCriteria": [],
+      "assignee": "you",
+      "branch": "main",
+      "column": "in_progress",
+      "createdAt": "2026-05-20T18:19:53.979Z",
+      "createdBy": "Aidan",
+      "description": "Be sure there are no pauses, errors, or failures during runs.",
+      "id": "2d2792f9-ecb8-4a76-895b-a43aa703e86a",
+      "linkedSessionId": "7a56037b-2c73-409e-8846-f51f81c6743d",
+      "paths": [
+        "Axiom Pipeline Monitor"
+      ],
+      "priority": "urgent",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "title": "Axiom Pipeline Monitor",
+      "updatedAt": "2026-05-21T15:55:37.081Z"
+    }
+  ],
+  "createdAt": "2026-05-24T16:38:05.409Z",
   "createdByDeviceId": "085ca0fb-1d23-4e34-b25d-1a90bf93051d",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1124,17 +1145,19 @@
     "4359017a-e620-456f-902a-85ce13f7c13c",
     "7ff9b1d8-caf3-4c96-b341-0d54ca674ac0",
     "862a1d5d-9891-497e-9e0d-8889fffda4bc",
-    "27dd337f-a15e-4846-85af-f9f5d687a5f4"
+    "27dd337f-a15e-4846-85af-f9f5d687a5f4",
+    "0659b77e-8535-44e2-9f76-3243376f11a0"
   ],
   "sessions": [
     {
       "branch": "master",
+      "endedAt": "2026-05-24T16:38:00.406Z",
       "id": "fa141aec-a1b5-4f09-b047-793448fbd3de",
       "repoId": "c6fe1e008162daec",
       "repoName": "Axiom Site",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
       "startedAt": "2026-05-24T15:27:20.029Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "4e5038b4-d79c-4b10-a49c-8b4a27aaae36",
