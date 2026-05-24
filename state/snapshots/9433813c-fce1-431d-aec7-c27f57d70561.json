@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-24T23:36:57.934Z",
+  "createdAt": "2026-05-24T23:40:12.933Z",
   "createdByDeviceId": "9433813c-fce1-431d-aec7-c27f57d70561",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1144,9 +1144,72 @@
     "9d6125ad-37f0-4dd3-ad70-5791626729ab",
     "4359017a-e620-456f-902a-85ce13f7c13c",
     "7ff9b1d8-caf3-4c96-b341-0d54ca674ac0",
-    "862a1d5d-9891-497e-9e0d-8889fffda4bc"
+    "862a1d5d-9891-497e-9e0d-8889fffda4bc",
+    "27dd337f-a15e-4846-85af-f9f5d687a5f4",
+    "0659b77e-8535-44e2-9f76-3243376f11a0",
+    "3e4e8a25-89ac-4e19-9fc1-4a8fdf084dfd",
+    "ab2abd77-432c-4f24-8521-a1d02784299d",
+    "5e409e96-1edd-4998-837f-86f6e3e3d802",
+    "b9e357b6-518f-412a-bd20-27d2cfce4a27"
   ],
   "sessions": [
+    {
+      "branch": "v1.4.0-command-layer-continuation",
+      "id": "b4c98eec-d4f3-408d-8de6-edf637c5f176",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T22:32:06.872Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "9b7bb92620b5dd90-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Workspace",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "master",
+      "endNote": "Huge update (v1.5.x)\n\nReady For Worker API, cleaner ui, better sorting, better intel. Better onboarding, performance optimizations.",
+      "endedAt": "2026-05-24T19:19:19.246Z",
+      "id": "c6d1fef5-314b-44a5-82ea-c37305900ec8",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T16:38:17.769Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "f00aa27a-2d2b-4e56-925d-db5d44c0f585",
+          "type": "area",
+          "value": "Shipping Major V1.4.0 Update ;)"
+        }
+      ],
+      "title": "Shipping Major V1.4.0 Update ;)",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "master",
+      "endedAt": "2026-05-24T16:38:00.406Z",
+      "id": "fa141aec-a1b5-4f09-b047-793448fbd3de",
+      "repoId": "c6fe1e008162daec",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
+      "startedAt": "2026-05-24T15:27:20.029Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "4e5038b4-d79c-4b10-a49c-8b4a27aaae36",
+          "type": "area",
+          "value": "Some polishing."
+        }
+      ],
+      "title": "Some polishing.",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "id": "0061cafc-b01d-4845-98dc-81a7ad5c5e75",
