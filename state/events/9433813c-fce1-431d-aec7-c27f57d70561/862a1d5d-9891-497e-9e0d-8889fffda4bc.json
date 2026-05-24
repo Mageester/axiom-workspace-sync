@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-05-24T08:05:53.529Z",
+  "deviceId": "9433813c-fce1-431d-aec7-c27f57d70561",
+  "id": "862a1d5d-9891-497e-9e0d-8889fffda4bc",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "0061cafc-b01d-4845-98dc-81a7ad5c5e75",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-24T08:05:53.529Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "4bc0c692-1870-49b7-90ab-d51b8b1b8b16",
+          "type": "area",
+          "value": "Continuous Audit"
+        }
+      ],
+      "title": "Continuous Audit",
+      "userName": "Riley"
+    }
+  },
+  "type": "session_created",
+  "userName": "Riley",
+  "version": 1
+}
