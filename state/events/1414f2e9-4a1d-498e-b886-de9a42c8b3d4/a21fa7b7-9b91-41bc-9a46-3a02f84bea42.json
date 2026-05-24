@@ -1,0 +1,12 @@
+{
+  "createdAt": "2026-05-24T01:57:16.854Z",
+  "deviceId": "1414f2e9-4a1d-498e-b886-de9a42c8b3d4",
+  "id": "a21fa7b7-9b91-41bc-9a46-3a02f84bea42",
+  "payload": {
+    "durationMs": 2580,
+    "gitCommandCount": 8
+  },
+  "type": "sync_completed",
+  "userName": "Riley Hinsperger",
+  "version": 1
+}
