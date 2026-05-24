@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-05-24T16:38:17.769Z",
+  "deviceId": "085ca0fb-1d23-4e34-b25d-1a90bf93051d",
+  "id": "3e4e8a25-89ac-4e19-9fc1-4a8fdf084dfd",
+  "payload": {
+    "session": {
+      "branch": "master",
+      "id": "c6d1fef5-314b-44a5-82ea-c37305900ec8",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T16:38:17.769Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "f00aa27a-2d2b-4e56-925d-db5d44c0f585",
+          "type": "area",
+          "value": "Shipping Major V1.4.0 Update ;)"
+        }
+      ],
+      "title": "Shipping Major V1.4.0 Update ;)",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}

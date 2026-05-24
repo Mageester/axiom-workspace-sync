@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-24T16:38:05.409Z",
+  "createdAt": "2026-05-24T16:38:22.773Z",
   "createdByDeviceId": "085ca0fb-1d23-4e34-b25d-1a90bf93051d",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1146,9 +1146,28 @@
     "7ff9b1d8-caf3-4c96-b341-0d54ca674ac0",
     "862a1d5d-9891-497e-9e0d-8889fffda4bc",
     "27dd337f-a15e-4846-85af-f9f5d687a5f4",
-    "0659b77e-8535-44e2-9f76-3243376f11a0"
+    "0659b77e-8535-44e2-9f76-3243376f11a0",
+    "3e4e8a25-89ac-4e19-9fc1-4a8fdf084dfd"
   ],
   "sessions": [
+    {
+      "branch": "master",
+      "id": "c6d1fef5-314b-44a5-82ea-c37305900ec8",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T16:38:17.769Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "f00aa27a-2d2b-4e56-925d-db5d44c0f585",
+          "type": "area",
+          "value": "Shipping Major V1.4.0 Update ;)"
+        }
+      ],
+      "title": "Shipping Major V1.4.0 Update ;)",
+      "userName": "Aidan"
+    },
     {
       "branch": "master",
       "endedAt": "2026-05-24T16:38:00.406Z",
