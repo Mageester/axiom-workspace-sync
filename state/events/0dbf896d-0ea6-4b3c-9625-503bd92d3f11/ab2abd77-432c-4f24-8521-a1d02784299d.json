@@ -1,0 +1,34 @@
+{
+  "createdAt": "2026-05-24T19:19:19.247Z",
+  "deviceId": "0dbf896d-0ea6-4b3c-9625-503bd92d3f11",
+  "id": "ab2abd77-432c-4f24-8521-a1d02784299d",
+  "payload": {
+    "endNote": "Huge update (v1.5.x)\n\nReady For Worker API, cleaner ui, better sorting, better intel. Better onboarding, performance optimizations.",
+    "endedAt": "2026-05-24T19:19:19.246Z",
+    "repoName": "Axiom Workspace",
+    "session": {
+      "branch": "master",
+      "endNote": "Huge update (v1.5.x)\n\nReady For Worker API, cleaner ui, better sorting, better intel. Better onboarding, performance optimizations.",
+      "endedAt": "2026-05-24T19:19:19.246Z",
+      "id": "c6d1fef5-314b-44a5-82ea-c37305900ec8",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T16:38:17.769Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "f00aa27a-2d2b-4e56-925d-db5d44c0f585",
+          "type": "area",
+          "value": "Shipping Major V1.4.0 Update ;)"
+        }
+      ],
+      "title": "Shipping Major V1.4.0 Update ;)",
+      "userName": "Aidan"
+    },
+    "sessionId": "c6d1fef5-314b-44a5-82ea-c37305900ec8"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}

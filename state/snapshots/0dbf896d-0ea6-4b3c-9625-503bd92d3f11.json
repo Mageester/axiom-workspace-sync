@@ -1,6 +1,27 @@
 {
-  "cards": [],
-  "createdAt": "2026-05-24T19:14:17.919Z",
+  "cards": [
+    {
+      "acceptanceCriteria": [],
+      "assignee": "you",
+      "branch": "main",
+      "column": "in_progress",
+      "createdAt": "2026-05-20T18:19:53.979Z",
+      "createdBy": "Aidan",
+      "description": "Be sure there are no pauses, errors, or failures during runs.",
+      "id": "2d2792f9-ecb8-4a76-895b-a43aa703e86a",
+      "linkedSessionId": "7a56037b-2c73-409e-8846-f51f81c6743d",
+      "paths": [
+        "Axiom Pipeline Monitor"
+      ],
+      "priority": "urgent",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "title": "Axiom Pipeline Monitor",
+      "updatedAt": "2026-05-21T15:55:37.081Z"
+    }
+  ],
+  "createdAt": "2026-05-24T19:19:24.260Z",
   "createdByDeviceId": "0dbf896d-0ea6-4b3c-9625-503bd92d3f11",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1126,17 +1147,21 @@
     "862a1d5d-9891-497e-9e0d-8889fffda4bc",
     "27dd337f-a15e-4846-85af-f9f5d687a5f4",
     "0659b77e-8535-44e2-9f76-3243376f11a0",
-    "3e4e8a25-89ac-4e19-9fc1-4a8fdf084dfd"
+    "3e4e8a25-89ac-4e19-9fc1-4a8fdf084dfd",
+    "ab2abd77-432c-4f24-8521-a1d02784299d",
+    "5e409e96-1edd-4998-837f-86f6e3e3d802"
   ],
   "sessions": [
     {
       "branch": "master",
+      "endNote": "Huge update (v1.5.x)\n\nReady For Worker API, cleaner ui, better sorting, better intel. Better onboarding, performance optimizations.",
+      "endedAt": "2026-05-24T19:19:19.246Z",
       "id": "c6d1fef5-314b-44a5-82ea-c37305900ec8",
       "repoId": "9b7bb92620b5dd90",
       "repoName": "Axiom Workspace",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
       "startedAt": "2026-05-24T16:38:17.769Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "f00aa27a-2d2b-4e56-925d-db5d44c0f585",
