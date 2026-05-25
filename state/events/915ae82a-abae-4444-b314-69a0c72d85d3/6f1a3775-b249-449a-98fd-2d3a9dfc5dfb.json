@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-05-25T02:53:11.504Z",
+  "deviceId": "915ae82a-abae-4444-b314-69a0c72d85d3",
+  "id": "6f1a3775-b249-449a-98fd-2d3a9dfc5dfb",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "b3b8014f-c925-4f6a-b896-efc712b0d419",
+      "repoId": "23b5cc2b65986e6a",
+      "repoName": "Kids Connect Demo",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\kids-connect\\kids-connect-demo",
+      "startedAt": "2026-05-25T02:53:11.504Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "23b5cc2b65986e6a-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Kids Connect Demo",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
