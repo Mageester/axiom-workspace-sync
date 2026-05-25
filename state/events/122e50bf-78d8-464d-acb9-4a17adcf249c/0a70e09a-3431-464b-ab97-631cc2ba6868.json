@@ -1,0 +1,34 @@
+{
+  "createdAt": "2026-05-25T00:51:00.420Z",
+  "deviceId": "122e50bf-78d8-464d-acb9-4a17adcf249c",
+  "id": "0a70e09a-3431-464b-ab97-631cc2ba6868",
+  "payload": {
+    "endNote": "Everything\n\nNo",
+    "endedAt": "2026-05-25T00:51:00.420Z",
+    "repoName": "Axiom Pipeline Engine",
+    "session": {
+      "branch": "main",
+      "endNote": "Everything\n\nNo",
+      "endedAt": "2026-05-25T00:51:00.420Z",
+      "id": "0061cafc-b01d-4845-98dc-81a7ad5c5e75",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-24T08:05:53.529Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "4bc0c692-1870-49b7-90ab-d51b8b1b8b16",
+          "type": "area",
+          "value": "Continuous Audit"
+        }
+      ],
+      "title": "Continuous Audit",
+      "userName": "Riley"
+    },
+    "sessionId": "0061cafc-b01d-4845-98dc-81a7ad5c5e75"
+  },
+  "type": "session_ended",
+  "userName": "Riley",
+  "version": 1
+}
