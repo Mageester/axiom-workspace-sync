@@ -1,0 +1,32 @@
+{
+  "createdAt": "2026-05-25T01:12:39.183Z",
+  "deviceId": "915ae82a-abae-4444-b314-69a0c72d85d3",
+  "id": "8b064396-2b84-4f2a-9b56-8c4145516e6c",
+  "payload": {
+    "endedAt": "2026-05-25T01:12:39.183Z",
+    "repoName": "Axiom Site",
+    "session": {
+      "branch": "codex/axiom-homepage-copy",
+      "endedAt": "2026-05-25T01:12:39.183Z",
+      "id": "ba4f77ec-0ceb-4fed-b1d8-ad7cce1c8197",
+      "repoId": "c6fe1e008162daec",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
+      "startedAt": "2026-05-25T01:12:37.447Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "c6fe1e008162daec-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Site",
+      "userName": "Aidan"
+    },
+    "sessionId": "ba4f77ec-0ceb-4fed-b1d8-ad7cce1c8197"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}
