@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-05-25T00:09:15.548Z",
+  "deviceId": "10b60fe7-2c5f-4ad5-ad67-dd5b85efd67b",
+  "id": "87350400-7d94-42d6-9e31-e6af73a20812",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "69fff775-5517-443e-ad50-3158f3744056",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-25T00:09:15.548Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "ca2474bb092268a7-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Pipeline Engine",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
