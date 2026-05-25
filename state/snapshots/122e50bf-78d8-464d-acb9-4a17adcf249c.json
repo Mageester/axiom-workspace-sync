@@ -1,6 +1,6 @@
 {
   "cards": [],
-  "createdAt": "2026-05-25T00:51:55.038Z",
+  "createdAt": "2026-05-25T01:12:40.182Z",
   "createdByDeviceId": "122e50bf-78d8-464d-acb9-4a17adcf249c",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1134,7 +1134,8 @@
     "87350400-7d94-42d6-9e31-e6af73a20812",
     "3b9f0131-495b-49e4-8b78-3fcace155ebe",
     "0a70e09a-3431-464b-ab97-631cc2ba6868",
-    "204e278f-6af9-4647-85d9-e637fadc9254"
+    "204e278f-6af9-4647-85d9-e637fadc9254",
+    "ad0f883e-d0a2-4963-82f8-8bce89c6ffd9"
   ],
   "sessions": [
     {
@@ -1362,12 +1363,13 @@
     },
     {
       "branch": "main",
+      "endedAt": "2026-05-25T01:12:36.450Z",
       "id": "b5797cea-5333-45dc-b22c-e29fcb3fa8e6",
       "repoId": "5c2ae79aa23ad525",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
       "startedAt": "2026-05-21T15:17:59.124Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "72dea679-dbcc-43b4-9452-bdafddab6f63",
