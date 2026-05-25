@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-25T02:53:16.506Z",
+  "createdAt": "2026-05-25T02:53:57.913Z",
   "createdByDeviceId": "915ae82a-abae-4444-b314-69a0c72d85d3",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1160,17 +1160,19 @@
     "11fab1b3-193b-4bd8-9154-d2124d865177",
     "8b064396-2b84-4f2a-9b56-8c4145516e6c",
     "18f047ee-2074-4b1a-a624-ab70480d9d95",
-    "6f1a3775-b249-449a-98fd-2d3a9dfc5dfb"
+    "6f1a3775-b249-449a-98fd-2d3a9dfc5dfb",
+    "e6dc5ddd-b10a-4474-b010-d0f95f7990f2"
   ],
   "sessions": [
     {
       "branch": "main",
+      "endedAt": "2026-05-25T02:53:52.909Z",
       "id": "b3b8014f-c925-4f6a-b896-efc712b0d419",
       "repoId": "23b5cc2b65986e6a",
       "repoName": "Kids Connect Demo",
       "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\kids-connect\\kids-connect-demo",
       "startedAt": "2026-05-25T02:53:11.504Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "23b5cc2b65986e6a-general",
