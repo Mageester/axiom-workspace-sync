@@ -1,0 +1,32 @@
+{
+  "createdAt": "2026-05-25T00:06:55.668Z",
+  "deviceId": "10b60fe7-2c5f-4ad5-ad67-dd5b85efd67b",
+  "id": "87fa8971-a324-433f-9fa8-c746c53795f5",
+  "payload": {
+    "endedAt": "2026-05-25T00:06:55.668Z",
+    "repoName": "Axiom Workspace",
+    "session": {
+      "branch": "v1.4.0-command-layer-continuation",
+      "endedAt": "2026-05-25T00:06:55.668Z",
+      "id": "b4c98eec-d4f3-408d-8de6-edf637c5f176",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T22:32:06.872Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "9b7bb92620b5dd90-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Workspace",
+      "userName": "Aidan"
+    },
+    "sessionId": "b4c98eec-d4f3-408d-8de6-edf637c5f176"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 {
   "cards": [],
-  "createdAt": "2026-05-25T00:06:28.259Z",
+  "createdAt": "2026-05-25T00:07:00.672Z",
   "createdByDeviceId": "10b60fe7-2c5f-4ad5-ad67-dd5b85efd67b",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1129,17 +1129,19 @@
     "3e4e8a25-89ac-4e19-9fc1-4a8fdf084dfd",
     "ab2abd77-432c-4f24-8521-a1d02784299d",
     "5e409e96-1edd-4998-837f-86f6e3e3d802",
-    "b9e357b6-518f-412a-bd20-27d2cfce4a27"
+    "b9e357b6-518f-412a-bd20-27d2cfce4a27",
+    "87fa8971-a324-433f-9fa8-c746c53795f5"
   ],
   "sessions": [
     {
       "branch": "v1.4.0-command-layer-continuation",
+      "endedAt": "2026-05-25T00:06:55.668Z",
       "id": "b4c98eec-d4f3-408d-8de6-edf637c5f176",
       "repoId": "9b7bb92620b5dd90",
       "repoName": "Axiom Workspace",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
       "startedAt": "2026-05-24T22:32:06.872Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "9b7bb92620b5dd90-general",
