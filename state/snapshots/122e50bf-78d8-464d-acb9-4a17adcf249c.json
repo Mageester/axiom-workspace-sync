@@ -1,6 +1,6 @@
 {
   "cards": [],
-  "createdAt": "2026-05-25T01:15:55.208Z",
+  "createdAt": "2026-05-25T01:19:10.224Z",
   "createdByDeviceId": "122e50bf-78d8-464d-acb9-4a17adcf249c",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1135,9 +1135,30 @@
     "3b9f0131-495b-49e4-8b78-3fcace155ebe",
     "0a70e09a-3431-464b-ab97-631cc2ba6868",
     "204e278f-6af9-4647-85d9-e637fadc9254",
-    "ad0f883e-d0a2-4963-82f8-8bce89c6ffd9"
+    "ad0f883e-d0a2-4963-82f8-8bce89c6ffd9",
+    "11fab1b3-193b-4bd8-9154-d2124d865177",
+    "8b064396-2b84-4f2a-9b56-8c4145516e6c"
   ],
   "sessions": [
+    {
+      "branch": "codex/axiom-homepage-copy",
+      "endedAt": "2026-05-25T01:12:39.183Z",
+      "id": "ba4f77ec-0ceb-4fed-b1d8-ad7cce1c8197",
+      "repoId": "c6fe1e008162daec",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
+      "startedAt": "2026-05-25T01:12:37.447Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "c6fe1e008162daec-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Site",
+      "userName": "Aidan"
+    },
     {
       "branch": "main",
       "endedAt": "2026-05-25T00:09:24.354Z",
