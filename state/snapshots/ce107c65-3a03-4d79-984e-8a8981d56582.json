@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-26T15:37:34.965Z",
+  "createdAt": "2026-05-26T16:56:23.569Z",
   "createdByDeviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1166,17 +1166,21 @@
     "df0bf9e7-4105-4881-b957-9c16053a0970",
     "81c8809f-f436-4bb1-bbfc-70c70ee7ea5b",
     "57328a9d-37b6-4e85-926c-4a3f4d1e8c09",
-    "ac84dad7-48f5-4a4f-892d-762c9ae7ba1e"
+    "ac84dad7-48f5-4a4f-892d-762c9ae7ba1e",
+    "4f1177ae-9528-41e8-9492-b6099076f545",
+    "0bb8f515-2ffa-4f15-a561-e56d0d1cebc0"
   ],
   "sessions": [
     {
       "branch": "main",
+      "endNote": "Added nice animations and new preview and features card / animation\n\nStable.",
+      "endedAt": "2026-05-26T16:56:18.558Z",
       "id": "55e33450-1b14-4013-8067-736198188795",
       "repoId": "acaf6c4e7dd9d0d1",
       "repoName": "Axiom Site",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
       "startedAt": "2026-05-26T15:37:29.963Z",
-      "status": "active",
+      "status": "ended",
       "targets": [
         {
           "id": "acaf6c4e7dd9d0d1-general",

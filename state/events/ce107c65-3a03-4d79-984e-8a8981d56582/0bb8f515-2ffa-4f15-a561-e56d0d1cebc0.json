@@ -1,0 +1,20 @@
+{
+  "createdAt": "2026-05-26T16:56:18.561Z",
+  "deviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
+  "id": "0bb8f515-2ffa-4f15-a561-e56d0d1cebc0",
+  "payload": {
+    "handoff": {
+      "authorUserName": "Aidan Magee",
+      "createdAt": "2026-05-26T16:56:18.560Z",
+      "details": "Stable.",
+      "id": "f7fcb249-8980-4f12-9a42-c78d45038631",
+      "projectId": "acaf6c4e7dd9d0d1",
+      "sessionId": "55e33450-1b14-4013-8067-736198188795",
+      "summary": "Added nice animations and new preview and features card / animation"
+    },
+    "repoName": "Axiom Site"
+  },
+  "type": "note_added",
+  "userName": "Aidan Magee",
+  "version": 1
+}

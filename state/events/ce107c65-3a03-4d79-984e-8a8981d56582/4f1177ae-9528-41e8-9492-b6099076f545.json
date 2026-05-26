@@ -1,0 +1,34 @@
+{
+  "createdAt": "2026-05-26T16:56:18.559Z",
+  "deviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
+  "id": "4f1177ae-9528-41e8-9492-b6099076f545",
+  "payload": {
+    "endNote": "Added nice animations and new preview and features card / animation\n\nStable.",
+    "endedAt": "2026-05-26T16:56:18.558Z",
+    "repoName": "Axiom Site",
+    "session": {
+      "branch": "main",
+      "endNote": "Added nice animations and new preview and features card / animation\n\nStable.",
+      "endedAt": "2026-05-26T16:56:18.558Z",
+      "id": "55e33450-1b14-4013-8067-736198188795",
+      "repoId": "acaf6c4e7dd9d0d1",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-26T15:37:29.963Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "acaf6c4e7dd9d0d1-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Site",
+      "userName": "Aidan Magee"
+    },
+    "sessionId": "55e33450-1b14-4013-8067-736198188795"
+  },
+  "type": "session_ended",
+  "userName": "Aidan Magee",
+  "version": 1
+}
