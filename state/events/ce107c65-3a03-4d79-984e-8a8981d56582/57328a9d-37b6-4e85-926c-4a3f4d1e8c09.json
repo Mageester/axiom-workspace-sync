@@ -1,0 +1,19 @@
+{
+  "createdAt": "2026-05-26T15:35:35.075Z",
+  "deviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
+  "id": "57328a9d-37b6-4e85-926c-4a3f4d1e8c09",
+  "payload": {
+    "handoff": {
+      "authorUserName": "Aidan Magee",
+      "createdAt": "2026-05-26T15:35:35.074Z",
+      "id": "1c28d105-5f4c-43df-8ec2-96023400ea3b",
+      "projectId": "bbcfb684db790aec",
+      "sessionId": "e01feeed-1767-41a1-8179-4f8605473d52",
+      "summary": "na"
+    },
+    "repoName": "Axiom Pipeline Engine"
+  },
+  "type": "note_added",
+  "userName": "Aidan Magee",
+  "version": 1
+}

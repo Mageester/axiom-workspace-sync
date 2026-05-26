@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-21T16:55:41.405Z",
+  "createdAt": "2026-05-26T15:36:50.565Z",
   "createdByDeviceId": "ce107c65-3a03-4d79-984e-8a8981d56582",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -339,9 +339,33 @@
     "c6a8d54a-e4ca-4371-94fc-cad18b6ecbc3",
     "d50c1426-18a5-4da6-b812-c771db4db89a",
     "887d7c08-b8a4-4c31-bb9c-1cb9fc5d352b",
-    "dfe00a28-b07d-4dfa-a8df-e26e68897cf7"
+    "dfe00a28-b07d-4dfa-a8df-e26e68897cf7",
+    "a326ae34-98e1-4c23-b547-e29e9d5fb44a",
+    "df0bf9e7-4105-4881-b957-9c16053a0970",
+    "81c8809f-f436-4bb1-bbfc-70c70ee7ea5b",
+    "57328a9d-37b6-4e85-926c-4a3f4d1e8c09"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "endNote": "na",
+      "endedAt": "2026-05-26T15:35:35.073Z",
+      "id": "e01feeed-1767-41a1-8179-4f8605473d52",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-26T15:35:30.476Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "bbcfb684db790aec-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Pipeline Engine",
+      "userName": "Aidan Magee"
+    },
     {
       "branch": "main",
       "endedAt": "2026-05-21T16:51:25.605Z",
