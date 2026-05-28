@@ -1,8 +1,555 @@
 {
-  "cards": [],
-  "createdAt": "2026-05-28T18:49:34.895Z",
+  "cards": [
+    {
+      "acceptanceCriteria": [],
+      "assignee": "you",
+      "branch": "main",
+      "column": "in_progress",
+      "createdAt": "2026-05-20T18:19:53.979Z",
+      "createdBy": "Aidan",
+      "description": "Be sure there are no pauses, errors, or failures during runs.",
+      "id": "2d2792f9-ecb8-4a76-895b-a43aa703e86a",
+      "linkedSessionId": "7a56037b-2c73-409e-8846-f51f81c6743d",
+      "paths": [
+        "Axiom Pipeline Monitor"
+      ],
+      "priority": "urgent",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "title": "Axiom Pipeline Monitor",
+      "updatedAt": "2026-05-21T15:55:37.081Z"
+    }
+  ],
+  "createdAt": "2026-05-28T18:50:17.881Z",
   "createdByDeviceId": "cd643167-7189-4eb4-bd6a-f1006762d0f6",
-  "eventsApplied": [],
-  "sessions": [],
+  "eventsApplied": [
+    "570342c8-2d4e-4284-b813-646be6ac5382"
+  ],
+  "sessions": [
+    {
+      "branch": "main",
+      "id": "c9619602-93bc-4889-a98e-260b00c12f4a",
+      "notes": "Using Opus 4.7 High to find stuck issue",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-28T17:01:15.052Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "b6301e1d-e7fe-4eb2-b314-eb0109c9f371",
+          "type": "area",
+          "value": "Fixing The Stuck Issue"
+        }
+      ],
+      "title": "Fixing The Stuck Issue",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endNote": "Added nice animations and new preview and features card / animation\n\nStable.",
+      "endedAt": "2026-05-26T16:56:18.558Z",
+      "id": "55e33450-1b14-4013-8067-736198188795",
+      "repoId": "acaf6c4e7dd9d0d1",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-26T15:37:29.963Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "acaf6c4e7dd9d0d1-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Site",
+      "userName": "Aidan Magee"
+    },
+    {
+      "branch": "main",
+      "endNote": "na",
+      "endedAt": "2026-05-26T15:35:35.073Z",
+      "id": "e01feeed-1767-41a1-8179-4f8605473d52",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-26T15:35:30.476Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "bbcfb684db790aec-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Pipeline Engine",
+      "userName": "Aidan Magee"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-25T02:53:52.909Z",
+      "id": "b3b8014f-c925-4f6a-b896-efc712b0d419",
+      "repoId": "23b5cc2b65986e6a",
+      "repoName": "Kids Connect Demo",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\kids-connect\\kids-connect-demo",
+      "startedAt": "2026-05-25T02:53:11.504Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "23b5cc2b65986e6a-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Kids Connect Demo",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "codex/axiom-homepage-copy",
+      "endedAt": "2026-05-25T01:12:39.183Z",
+      "id": "ba4f77ec-0ceb-4fed-b1d8-ad7cce1c8197",
+      "repoId": "c6fe1e008162daec",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
+      "startedAt": "2026-05-25T01:12:37.447Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "c6fe1e008162daec-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Site",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-25T00:09:24.354Z",
+      "id": "69fff775-5517-443e-ad50-3158f3744056",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-25T00:09:15.548Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "ca2474bb092268a7-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Pipeline Engine",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "v1.4.0-command-layer-continuation",
+      "endedAt": "2026-05-25T00:06:55.668Z",
+      "id": "b4c98eec-d4f3-408d-8de6-edf637c5f176",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T22:32:06.872Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "9b7bb92620b5dd90-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Workspace",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "master",
+      "endNote": "Huge update (v1.5.x)\n\nReady For Worker API, cleaner ui, better sorting, better intel. Better onboarding, performance optimizations.",
+      "endedAt": "2026-05-24T19:19:19.246Z",
+      "id": "c6d1fef5-314b-44a5-82ea-c37305900ec8",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-24T16:38:17.769Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "f00aa27a-2d2b-4e56-925d-db5d44c0f585",
+          "type": "area",
+          "value": "Shipping Major V1.4.0 Update ;)"
+        }
+      ],
+      "title": "Shipping Major V1.4.0 Update ;)",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "master",
+      "endedAt": "2026-05-24T16:38:00.406Z",
+      "id": "fa141aec-a1b5-4f09-b047-793448fbd3de",
+      "repoId": "c6fe1e008162daec",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\axiom-site",
+      "startedAt": "2026-05-24T15:27:20.029Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "4e5038b4-d79c-4b10-a49c-8b4a27aaae36",
+          "type": "area",
+          "value": "Some polishing."
+        }
+      ],
+      "title": "Some polishing.",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endNote": "Everything\n\nNo",
+      "endedAt": "2026-05-25T00:51:00.420Z",
+      "id": "0061cafc-b01d-4845-98dc-81a7ad5c5e75",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-24T08:05:53.529Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "4bc0c692-1870-49b7-90ab-d51b8b1b8b16",
+          "type": "area",
+          "value": "Continuous Audit"
+        }
+      ],
+      "title": "Continuous Audit",
+      "userName": "Riley"
+    },
+    {
+      "branch": "master",
+      "endedAt": "2026-05-23T21:31:54.983Z",
+      "id": "195bfa48-a0dc-4683-bb46-0039639a14ce",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-23T21:31:42.415Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "59d5cb23-4f3d-494c-8e92-d6721d07b54b",
+          "type": "area",
+          "value": "Working"
+        }
+      ],
+      "title": "Working",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "master",
+      "endedAt": "2026-05-23T21:31:22.033Z",
+      "id": "c3faacc4-5aa4-4303-95f8-21d643f50499",
+      "notes": "Updating Useability and simpleness.",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-23T20:09:01.376Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "4cd581eb-73de-4282-a2e0-02ba5a3b651f",
+          "type": "area",
+          "value": "Adding Cards"
+        }
+      ],
+      "title": "Adding Cards",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endNote": "Changed: Fixed a stale quarantine worker.\nHandoff: Not much changed at all, in process of verifying that everything still works perfectly comparing to riley's good fixes.",
+      "endedAt": "2026-05-23T20:00:12.249Z",
+      "id": "84f909d0-c2da-4312-9e60-59c320f4771b",
+      "notes": "Backend Fine tuning (small changes)",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-23T19:27:05.039Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "0ae3696b-1e65-4f6f-8dd8-ca85af0f7edc",
+          "type": "area",
+          "value": "Doing some small fine tuning"
+        }
+      ],
+      "title": "Doing some small fine tuning",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-21T16:51:25.605Z",
+      "id": "5d021617-edba-43d0-8a06-e493d9a2c730",
+      "notes": "Refreshing Site",
+      "repoId": "acaf6c4e7dd9d0d1",
+      "repoName": "Axiom Site",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-21T16:30:00.008Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "3c965269-0fc3-407a-9067-90573b9b7c49",
+          "type": "area",
+          "value": "Refresh"
+        }
+      ],
+      "title": "Refresh",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-21T15:57:36.906Z",
+      "id": "7a56037b-2c73-409e-8846-f51f81c6743d",
+      "notes": "Be sure there are no pauses, errors, or failures during runs.",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-21T15:55:37.081Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "3cb8e731-ca5f-4642-ad11-b7e7b73ce6d5",
+          "type": "area",
+          "value": "Axiom Pipeline Monitor"
+        },
+        {
+          "id": "0838e2df-a482-4911-8861-20c1ebaa3d10",
+          "type": "area",
+          "value": "Axiom Pipeline Monitor"
+        }
+      ],
+      "title": "Axiom Pipeline Monitor",
+      "userName": "Riley"
+    },
+    {
+      "branch": "master",
+      "endNote": "Changed: 1.0 Done\nHandoff: In good state.",
+      "endedAt": "2026-05-21T16:29:34.197Z",
+      "id": "f2666a3e-50b3-4090-be95-f56d7a51ee14",
+      "notes": "Working on final version",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-21T15:48:08.574Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "ab1a7712-77d2-45da-bacc-9e1ec9e96104",
+          "type": "file",
+          "value": "rc-tauri/Cargo.lock"
+        }
+      ],
+      "title": "1.0 Release",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-25T01:12:36.450Z",
+      "id": "b5797cea-5333-45dc-b22c-e29fcb3fa8e6",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-21T15:17:59.124Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "72dea679-dbcc-43b4-9452-bdafddab6f63",
+          "type": "area",
+          "value": "Still not fucking working"
+        }
+      ],
+      "title": "Still not fucking working",
+      "userName": "Riley Hinsperger"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-21T15:47:47.191Z",
+      "id": "d4fdbb3d-3298-4630-a799-4f504e5c5619",
+      "notes": "No Touch",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-21T15:00:02.954Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "3c215f7b-24af-448f-89ec-b617983bcdfe",
+          "type": "area",
+          "value": "Worker Timeout"
+        }
+      ],
+      "title": "Worker Timeout",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endNote": "Changed: Pipeline now fixed. Ran out of claude usage before I could finish last UI Commit.\nHandoff: Don't touch repo until we've talked tomorrow.",
+      "endedAt": "2026-05-21T04:24:52.323Z",
+      "id": "fe893c9f-8426-452e-a1b8-400c277c8353",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-21T03:04:37.618Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "eb193b67-ad3f-4fa2-bf1f-4d205e67537c",
+          "type": "area",
+          "value": "Sends not sending still"
+        }
+      ],
+      "title": "Sends not sending still",
+      "userName": "Riley Hinsperger"
+    },
+    {
+      "branch": "master",
+      "endNote": "Changed: In stable State\nHandoff: new version ready for download. please update.",
+      "endedAt": "2026-05-20T18:20:39.034Z",
+      "id": "a827f57b-4724-415f-897f-b3af289158a2",
+      "notes": "Do not touch or modify.",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-20T17:59:44.065Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "5951dcbe-8aa8-403b-9c90-87425dfc1543",
+          "type": "area",
+          "value": "Full Root Folder"
+        }
+      ],
+      "title": "Full Root Folder",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endNote": "Changed: Fixed scheduler. Now sends more emails like before.\nHandoff: It should be in a good state although breaks are possible.",
+      "endedAt": "2026-05-20T17:43:14.306Z",
+      "id": "13500d3b-16f5-4c08-8a84-8de763497e58",
+      "notes": "Do not push anything or make changes, contact Aidan Magee for more information.",
+      "repoId": "bbcfb684db790aec",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-20T13:32:58.144Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "109d9943-a845-4a09-9d70-4970a3cadfbb",
+          "type": "file",
+          "value": ".codex-screenshots/"
+        }
+      ],
+      "title": "Working on fixing pipeline and sending",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "master",
+      "endNote": "Changed: Upgraded ui simplfied syncing and made onboarding easier.\nHandoff: V0.5.0 Finished (Pre-Release)",
+      "endedAt": "2026-05-20T00:45:12.273Z",
+      "id": "304e3a62-09b2-4f99-910c-7decb2c1869f",
+      "notes": "Working on it, do not touch code or pull or push anything.",
+      "repoId": "9b7bb92620b5dd90",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Axiom Workspace",
+      "startedAt": "2026-05-19T23:48:50.163Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "48590e35-4005-4ea3-b6a5-c7348057c3cc",
+          "type": "area",
+          "value": "Simplifying UI and make functions automatic and easy."
+        }
+      ],
+      "title": "Simplifying UI and make functions automatic and easy.",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-20T00:47:16.271Z",
+      "id": "3ff34c8a-2b9c-44f2-aeee-b55602528296",
+      "notes": "Claude limit low, switching to codex soon",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-19T18:03:11.124Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "dfab1b18-9606-4e9b-aee7-ff88a8588324",
+          "type": "area",
+          "value": "Prioritizing intiial outreach over follow-ups"
+        }
+      ],
+      "title": "Prioritizing intiial outreach over follow-ups",
+      "userName": "Riley Hinsperger"
+    },
+    {
+      "branch": "master",
+      "endNote": "Done starting new session",
+      "endedAt": "2026-05-19T23:47:59.042Z",
+      "id": "1ab6ebfe-6bf8-4774-8547-d90a1895506f",
+      "notes": "DO NOT TOUCH WORK",
+      "repoId": "556c11ca437d9616",
+      "repoName": "Axiom Workspace",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-workspace",
+      "startedAt": "2026-05-19T18:01:34.012Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "e912126b-0d09-46e9-8257-948a4c296b8f",
+          "type": "area",
+          "value": "Working on it do not touch"
+        }
+      ],
+      "title": "Working on it do not touch",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-19T15:33:41.733Z",
+      "id": "52839eac-bbca-42e4-95fb-fb557153d0a6",
+      "notes": "wdawdawda",
+      "repoId": "95cd71f38f84bd3b",
+      "repoName": "axiom-site",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site",
+      "startedAt": "2026-05-19T04:36:45.057Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "f53e737d-fca7-4326-85b7-f3d7763c6ffe",
+          "type": "area",
+          "value": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\axiom-site"
+        }
+      ],
+      "title": "dwadaw",
+      "userName": "Aidan"
+    },
+    {
+      "branch": "main",
+      "endedAt": "2026-05-19T04:30:00.674Z",
+      "id": "24de8011-4a01-4555-9e3a-1e672f8f7646",
+      "notes": "DO NOT TOUCH",
+      "repoId": "10d1169dcbd35b",
+      "repoName": "Axiom-Pipeline-Engine",
+      "repoPath": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-19T04:14:21.124Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "bc0112dd-a6b2-4510-85b6-5ec607da125b",
+          "type": "area",
+          "value": "C:\\Users\\aidan\\OneDrive\\Desktop\\Repos\\Axiom-Pipeline-Engine"
+        }
+      ],
+      "title": "Working",
+      "userName": "Aidan"
+    }
+  ],
   "version": 1
 }
