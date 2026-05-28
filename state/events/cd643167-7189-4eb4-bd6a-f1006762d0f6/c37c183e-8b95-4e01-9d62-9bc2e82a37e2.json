@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-28T19:37:15.397Z",
+  "deviceId": "cd643167-7189-4eb4-bd6a-f1006762d0f6",
+  "id": "c37c183e-8b95-4e01-9d62-9bc2e82a37e2",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "c9619602-93bc-4889-a98e-260b00c12f4a",
+      "notes": "Using Opus 4.8 High to find stuck issue and its running on a timeout to make sure its working. Email sent to riley@getaxiom.ca for update, however, no response, so I am proceeding.\n\nNOTE : USAGE LIMIT HIT",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-28T17:01:15.052Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "b6301e1d-e7fe-4eb2-b314-eb0109c9f371",
+          "type": "area",
+          "value": "Fixing The Stuck Issue"
+        }
+      ],
+      "title": "Fixing The Stuck Issue",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_updated",
+  "userName": "Aidan",
+  "version": 1
+}

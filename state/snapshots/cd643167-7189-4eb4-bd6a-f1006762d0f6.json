@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-28T19:37:02.460Z",
+  "createdAt": "2026-05-28T19:37:20.397Z",
   "createdByDeviceId": "cd643167-7189-4eb4-bd6a-f1006762d0f6",
   "eventsApplied": [
     "570342c8-2d4e-4284-b813-646be6ac5382",
@@ -40,13 +40,15 @@
     "06de3968-8db7-463f-81c2-a7f3cce905e5",
     "b8692310-e03a-4d2c-81f6-9560cbbb7843",
     "6d1a8e52-047c-47ec-bfdc-4fc7277ad067",
-    "05cda710-4291-48d8-8fe7-8187007ebfeb"
+    "05cda710-4291-48d8-8fe7-8187007ebfeb",
+    "fa2c1a73-f6fb-43ab-9fd2-e00557210799",
+    "c37c183e-8b95-4e01-9d62-9bc2e82a37e2"
   ],
   "sessions": [
     {
       "branch": "main",
       "id": "c9619602-93bc-4889-a98e-260b00c12f4a",
-      "notes": "Using Opus 4.8 High to find stuck issue and its running on a timeout to make sure its working. Email sent to riley@getaxiom.ca for update, however, no response, so I am proceeding.",
+      "notes": "Using Opus 4.8 High to find stuck issue and its running on a timeout to make sure its working. Email sent to riley@getaxiom.ca for update, however, no response, so I am proceeding.\n\nNOTE : USAGE LIMIT HIT",
       "repoId": "ca2474bb092268a7",
       "repoName": "Axiom Pipeline Engine",
       "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
