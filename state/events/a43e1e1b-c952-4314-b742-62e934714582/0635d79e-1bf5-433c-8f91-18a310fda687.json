@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-28T17:01:15.052Z",
+  "deviceId": "a43e1e1b-c952-4314-b742-62e934714582",
+  "id": "0635d79e-1bf5-433c-8f91-18a310fda687",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "c9619602-93bc-4889-a98e-260b00c12f4a",
+      "notes": "Using Opus 4.7 High to find stuck issue",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-28T17:01:15.052Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "b6301e1d-e7fe-4eb2-b314-eb0109c9f371",
+          "type": "area",
+          "value": "Fixing The Stuck Issue"
+        }
+      ],
+      "title": "Fixing The Stuck Issue",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
