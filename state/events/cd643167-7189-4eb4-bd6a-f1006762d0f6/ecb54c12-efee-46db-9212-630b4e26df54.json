@@ -1,0 +1,12 @@
+{
+  "createdAt": "2026-05-29T06:37:04.880Z",
+  "deviceId": "cd643167-7189-4eb4-bd6a-f1006762d0f6",
+  "id": "ecb54c12-efee-46db-9212-630b4e26df54",
+  "payload": {
+    "durationMs": 2053,
+    "gitCommandCount": 8
+  },
+  "type": "sync_completed",
+  "userName": "Aidan",
+  "version": 1
+}
