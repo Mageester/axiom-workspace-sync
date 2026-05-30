@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-05-30T18:43:22.952Z",
+  "deviceId": "a43e1e1b-c952-4314-b742-62e934714582",
+  "id": "77ef828b-d1f2-404a-b10c-807bec469ea2",
+  "payload": {
+    "session": {
+      "branch": "main",
+      "id": "54d45370-dbb9-4bd1-a8d7-be7365e7c316",
+      "notes": "Investigating problems within pipeline",
+      "repoId": "ca2474bb092268a7",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\aidan\\OneDrive\\Desktop\\Projects\\Axiom-Pipeline-Engine",
+      "startedAt": "2026-05-30T18:43:22.952Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "a48d1f95-3b2a-4728-8f3c-733a453f454a",
+          "type": "area",
+          "value": "Another crash - investigating."
+        }
+      ],
+      "title": "Another crash - investigating.",
+      "userName": "Aidan"
+    }
+  },
+  "type": "session_created",
+  "userName": "Aidan",
+  "version": 1
+}
