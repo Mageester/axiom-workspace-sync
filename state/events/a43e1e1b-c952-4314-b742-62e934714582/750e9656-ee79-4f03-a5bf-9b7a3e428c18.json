@@ -1,0 +1,13 @@
+{
+  "createdAt": "2026-05-30T16:14:50.075Z",
+  "deviceId": "a43e1e1b-c952-4314-b742-62e934714582",
+  "id": "750e9656-ee79-4f03-a5bf-9b7a3e428c18",
+  "payload": {
+    "endNote": "Changed: Fixed\nHandoff: Fix",
+    "endedAt": "2026-05-30T16:14:50.075Z",
+    "sessionId": "c9619602-93bc-4889-a98e-260b00c12f4a"
+  },
+  "type": "session_ended",
+  "userName": "Aidan",
+  "version": 1
+}
