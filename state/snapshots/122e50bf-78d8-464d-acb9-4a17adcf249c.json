@@ -21,7 +21,7 @@
       "updatedAt": "2026-05-21T15:55:37.081Z"
     }
   ],
-  "createdAt": "2026-05-25T22:34:33.883Z",
+  "createdAt": "2026-05-31T20:03:15.842Z",
   "createdByDeviceId": "122e50bf-78d8-464d-acb9-4a17adcf249c",
   "eventsApplied": [
     "a8f6e777-1ce9-4408-b399-737030a2916f",
@@ -1161,9 +1161,28 @@
     "8b064396-2b84-4f2a-9b56-8c4145516e6c",
     "18f047ee-2074-4b1a-a624-ab70480d9d95",
     "6f1a3775-b249-449a-98fd-2d3a9dfc5dfb",
-    "e6dc5ddd-b10a-4474-b010-d0f95f7990f2"
+    "e6dc5ddd-b10a-4474-b010-d0f95f7990f2",
+    "0bbc61e4-e422-4b4c-8a08-5fa06289c65c"
   ],
   "sessions": [
+    {
+      "branch": "main",
+      "id": "4cb17316-6c0a-431c-8d46-2b65fef608bc",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-31T20:02:03.406Z",
+      "status": "active",
+      "targets": [
+        {
+          "id": "5c2ae79aa23ad525-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Pipeline Engine",
+      "userName": "Riley"
+    },
     {
       "branch": "main",
       "endedAt": "2026-05-25T02:53:52.909Z",
