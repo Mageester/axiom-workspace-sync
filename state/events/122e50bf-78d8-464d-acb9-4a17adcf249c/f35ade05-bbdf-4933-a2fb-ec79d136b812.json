@@ -1,0 +1,32 @@
+{
+  "createdAt": "2026-05-31T20:41:41.504Z",
+  "deviceId": "122e50bf-78d8-464d-acb9-4a17adcf249c",
+  "id": "f35ade05-bbdf-4933-a2fb-ec79d136b812",
+  "payload": {
+    "endedAt": "2026-05-31T20:41:41.504Z",
+    "repoName": "Axiom Pipeline Engine",
+    "session": {
+      "branch": "main",
+      "endedAt": "2026-05-31T20:41:41.504Z",
+      "id": "4cb17316-6c0a-431c-8d46-2b65fef608bc",
+      "repoId": "5c2ae79aa23ad525",
+      "repoName": "Axiom Pipeline Engine",
+      "repoPath": "\\\\?\\C:\\Users\\riley\\Documents\\axiom-pipeline-engine",
+      "startedAt": "2026-05-31T20:02:03.406Z",
+      "status": "ended",
+      "targets": [
+        {
+          "id": "5c2ae79aa23ad525-general",
+          "type": "area",
+          "value": "general work"
+        }
+      ],
+      "title": "Work on Axiom Pipeline Engine",
+      "userName": "Riley"
+    },
+    "sessionId": "4cb17316-6c0a-431c-8d46-2b65fef608bc"
+  },
+  "type": "session_ended",
+  "userName": "Riley",
+  "version": 1
+}
